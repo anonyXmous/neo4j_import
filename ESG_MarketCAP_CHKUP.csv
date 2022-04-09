@@ -1,0 +1,2099 @@
+Company_Ticker,Company_Name,Aienstein_Rating,ESG_E,ESG_S,ESG_G,ESG_Summary,Fact_Market_Cap,Fact_Market_Cap_Rating
+0LCV,Taiwan Semiconductor Manufacturing,F,,,,,550242.6734,4X
+AAP,Advance Auto Parts Inc,F,C,C,C,C,12999.5729,2X
+ABMD,Abiomed Inc.,F,D,C,B,C,13810.56631,2X
+ACIA,Acacia Communications Inc,C,D,C,B,C,4846.13741,1X
+AEE,Ameren Corp.,D,B,C,C,C,22590.37818,4X
+AEO,American Eagle Outfitters Inc.,F,C,C,C,C,3275.834347,1X
+AG,First Majestic Silver Corporation,A,,,,,3547.132963,1X
+AGEN,Agenus Inc,D,D,C,C,C,690.0193492,.25X
+AGX,"Argan, Inc.",A,D,C,B,C,638.3469312,.25X
+ALRM,Alarm.com Holdings Inc,F,D,C,C,C,3377.932919,1X
+AME,Ametek Inc,F,C,C,C,C,31157.26922,4X
+AMSF,Amerisafe Inc,F,D,C,B,C,940.5121028,.5X
+APAM,Artisan Partners Asset Management Inc,F,B,B,B,B,2504.100022,.5X
+APTV,Aptiv PLC,F,B,B,B,B,32109.24903,4X
+AR,Antero Resources Corp,A,B,C,C,C,8034.941926,2X
+ASGN,ASGN Inc,D,C,B,C,C,6213.105,2X
+ATRC,Atricure Inc,D,D,C,C,C,3044.759316,1X
+ATRO,Astronics Corp.,A,C,C,C,C,322.5333362,.25X
+AVD,American Vanguard Corp.,A,D,D,C,C,588.8472931,.25X
+AVT,Avnet Inc.,A,C,C,C,C,4309.502778,1X
+AVY,Avery Dennison Corp.,F,B,B,C,B,14182.93759,2X
+AWK,American Water Works Co. Inc.,F,B,B,C,C,28807.00068,4X
+AXON,Axon Enterprise Inc,F,D,C,C,C,8858.99315,2X
+AXTI,AXT Inc,F,D,C,D,D,308.1729588,.25X
+AZPN,Aspen Technology Inc.,D,C,C,C,C,9802.616997,2X
+AZZ,AZZ Inc,F,C,C,C,C,1240.984767,.5X
+BBW,Build A Bear Workshop Inc,D,,,,,298.6689608,.25X
+BCPC,Balchem Corp.,F,B,B,B,B,4538.349007,1X
+BECN,Beacon Roofing Supply Inc,A,C,C,C,C,4393.978458,1X
+BFIN,Bankfinancial Corp,A,D,C,B,C,153.0817385,.25X
+BGS,"B&G Foods, Inc",F,C,C,D,C,1778.828678,.5X
+BIP,Brookfield Infrastructure Partners L.P,A,B,C,F,D,18529.8326,2X
+BLKB,Blackbaud Inc,F,C,C,D,C,2993.601963,1X
+BYD,Boyd Gaming Corp.,A,C,C,C,C,7729.9885,2X
+CAH,"Cardinal Health, Inc.",A,C,C,C,C,16256.65955,2X
+CALM,"Cal-Maine Foods, Inc.",A,C,C,C,C,2279.966776,.5X
+CALX,Calix Inc,F,D,C,C,C,2970.350552,1X
+CCK,"Crown Holdings, Inc.",A,B,C,C,C,16830.83844,2X
+CERS,Cerus Corp.,F,D,C,C,C,969.6913692,.5X
+CF,CF Industries Holdings Inc,A,C,B,C,C,20488.27186,4X
+CG,Carlyle Group Inc (The),F,C,C,B,B,16766.0596,2X
+CI,Cigna Corp.,A,B,C,C,C,82020.33411,4X
+CLNE,Clean Energy Fuels Corp,A,C,C,B,B,1783.937064,.5X
+CNMD,Conmed Corp.,A,D,C,D,C,4234.743402,1X
+COHR,Coherent Inc.,D,C,C,B,C,6531.028615,2X
+COLL,Collegium Pharmaceutical Inc,A,D,C,C,C,687.4611085,.25X
+CREE,"Cree, Inc.",A,B,C,C,C,9169.312219,2X
+CTB,Cooper Tire & Rubber Co.,B,B,C,B,B,3037.779444,1X
+DHT,DHT Holdings Inc,A,D,C,B,C,973.9254614,.5X
+DHX,DHI Group Inc,D,C,C,C,C,301.9409877,.25X
+DOCU,DocuSign Inc,F,D,C,C,C,18788.5655,2X
+DOW,Dow Inc,A,B,B,C,B,46528.70185,4X
+DXPE,"DXP Enterprises, Inc.",A,D,C,C,C,590.0366746,.25X
+EGOV,NIC Inc,A,D,C,B,C,2308.77034,.5X
+EMN,Eastman Chemical Co,F,B,B,C,B,14650.95538,2X
+ESCA,"Escalade, Inc.",F,D,D,C,D,195.610774,.25X
+ETSY,Etsy Inc,F,B,C,B,B,18733.36596,2X
+EXP,Eagle Materials Inc.,F,D,D,C,C,5518.8001,1X
+EZPW,"EZCorp, Inc.",F,D,C,C,C,316.9260349,.25X
+FANG,Diamondback Energy Inc,A,C,C,B,C,23799.50203,4X
+FC,Franklin Covey Co.,A,D,C,B,C,679.2745294,.25X
+FCFS,FirstCash Inc,A,D,D,C,D,2541.597024,.5X
+FDS,Factset Research Systems Inc.,F,C,B,C,C,16530.53129,2X
+FI,Franks International N.V.,A,C,C,B,B,119.9086655,.25X
+FISV,"Fiserv, Inc.",D,C,C,D,C,66624.41638,4X
+FLIR,"Flir Systems, Inc.",A,C,C,C,C,7525.212436,2X
+FRO,Frontline Ltd,A,D,C,D,D,1715.969346,.5X
+FTI,TechnipFMC plc,A,C,C,C,C,3290.113504,1X
+FUN,Cedar Fair L.P.,A,D,C,D,D,3174.422358,1X
+GEO,"Geo Group, Inc.",F,C,B,D,C,698.5562439,.25X
+GEOS,Geospace Technologies Corp,F,D,C,B,B,77.6967,.25X
+GES,Guess Inc.,F,B,B,C,C,1391.372643,.5X
+GMED,Globus Medical Inc,D,D,C,B,C,5424.081713,1X
+GSHD,Goosehead Insurance Inc,F,D,C,C,C,1557.166358,.5X
+HAL,Halliburton Co.,A,B,C,C,B,32065.46937,4X
+HAS,"Hasbro, Inc.",F,B,B,C,C,12299.22909,2X
+HCCI,Heritage-Crystal Clean Inc,D,D,D,C,C,712.3459599,.25X
+HEI,Heico Corp.,A,B,B,C,B,8083.797327,2X
+HELE,Helen of Troy Ltd,F,D,C,C,C,4991.030164,1X
+HHC,Howard Hughes Corporation,D,C,C,C,C,5451.435851,1X
+HMC,Honda Motor,D,C,C,C,C,51299.65314,4X
+HMN,Horace Mann Educators Corp.,A,C,C,C,C,1700.141891,.5X
+HUBB,Hubbell Inc.,F,C,C,C,C,10309.45197,2X
+HUN,Huntsman Corp,A,B,B,C,C,8750.695918,2X
+HUYA,HUYA Inc,F,D,C,C,C,449.1347889,.25X
+IDCC,Interdigital Inc,D,C,C,C,C,2022.065564,.5X
+IMKTA,"Ingles Markets, Inc.",A,D,D,C,C,1197.89262,.5X
+INGR,Ingredion Inc,F,C,B,C,C,5740.465648,1X
+INOV,Inovalon Holdings Inc,B,D,C,D,D,2989.315816,1X
+IQ,iQIYI Inc,F,D,C,F,D,1316.734045,.5X
+KFRC,Kforce Inc.,D,C,C,B,C,1601.639224,.5X
+KSS,Kohl`s Corp.,A,C,B,C,C,9397.851417,2X
+LEVI,Levi Strauss & Co.,F,,,,,2047.205377,.5X
+LGND,"Ligand Pharmaceuticals, Inc.",F,D,D,F,D,1866.770992,.5X
+LIN,Linde Plc,F,B,B,B,B,160944.752,4X
+LITE,Lumentum Holdings Inc,F,,,,,6906.5,2X
+LKFN,Lakeland Financial Corp.,D,D,C,B,C,1964.046763,.5X
+LLY,Lilly(Eli) & Co,A,B,C,C,C,275150.9281,4X
+LOPE,Grand Canyon Education Inc,A,D,C,B,C,4411.944832,1X
+AAOI,Applied Optoelectronics Inc,F,D,C,D,D,97.98033848,.25X
+ACHC,Acadia Healthcare Company Inc,A,C,C,C,C,5909.415803,1X
+ADUS,Addus HomeCare Corporation,F,D,C,D,D,1294.831599,.5X
+AER,Aercap Holdings N.V.,F,C,C,D,C,7279.819707,2X
+AES,AES Corp.,D,B,B,C,C,15786.06222,2X
+AGCO,AGCO Corp.,A,C,C,B,C,9985.597107,2X
+AKAM,Akamai Technologies Inc,A,C,C,D,C,19152.0459,2X
+AL,Air Lease Corp,D,C,C,D,C,4808.764669,1X
+ALE,"Allete, Inc.",D,C,C,C,C,3400.041141,1X
+AMD,Advanced Micro Devices Inc.,F,B,B,C,C,137623.0409,4X
+AMN,AMN Healthcare Services Inc.,F,C,B,D,C,5015.975493,1X
+ANIP,ANI Pharmaceuticals Inc,F,D,D,D,D,347.3511869,.25X
+ASPS,Altisource Portfolio Solutions S.A.,D,D,C,C,C,171.8458349,.25X
+AYX,Alteryx Inc,A,D,C,D,D,3762.21879,1X
+BERY,Berry Global Group Inc,F,B,B,D,C,8164.002,2X
+BEST,BEST Inc,A,C,C,D,C,244.425501,.25X
+BLD,TopBuild Corp,F,B,C,C,C,7629.36472,2X
+BOX,Box Inc,A,D,C,D,C,4246.337749,1X
+BRK.B,Berkshire Hathaway Inc.,A,C,D,B,C,453821.0032,4X
+BRKR,Bruker Corp,F,C,C,C,C,10366.01266,2X
+BRO,"Brown & Brown, Inc.",D,D,C,C,C,19597.03885,2X
+BZH,Beazer Homes USA Inc.,F,C,C,C,C,537.6274496,.25X
+CAR,Avis Budget Group Inc,A,C,C,C,C,18840.1868,2X
+CAT,Caterpillar Inc.,A,B,C,C,C,120941.9218,4X
+CBRE,CBRE Group Inc,F,B,B,C,B,30582.22904,4X
+CCL,Carnival Corp.,D,B,B,D,C,19091.2029,2X
+CHCO,City Holding Co.,D,D,C,B,C,1207.92569,.5X
+CHD,"Church & Dwight Co., Inc.",D,B,B,C,B,23802.95849,4X
+CHWY,Chewy Inc,F,D,D,B,C,4711.677921,1X
+CLVT,Clarivate Plc,F,C,B,D,C,10143.236,2X
+CMP,Compass Minerals International Inc,A,C,C,C,C,2048.45023,.5X
+CMRX,Chimerix Inc,F,D,C,C,C,457.1236432,.25X
+CORE,Core-Mark Hldg Co Inc,A,C,C,C,C,2061.723133,.5X
+CRUS,"Cirrus Logic, Inc.",F,C,B,B,B,4824.961256,1X
+CSCO,"Cisco Systems, Inc.",F,B,B,C,B,236060.5872,4X
+CTLT,Catalent Inc.,F,B,C,D,C,18664.90452,2X
+CTSH,Cognizant Technology Solutions Corp.,A,B,C,C,C,48207.77518,4X
+CWEN,Clearway Energy Inc,A,C,C,F,D,2971.409548,1X
+CYTK,Cytokinetics Inc,F,D,C,C,C,3116.692844,1X
+DIS,Walt Disney Co (The),F,B,C,C,C,254942.8613,4X
+DKNG,DraftKings Inc,F,D,C,D,C,7915.13501,2X
+DOMO,Domo Inc.,D,D,D,C,C,1390.446504,.5X
+DPZ,Dominos Pizza Inc,F,C,C,C,C,15318.82134,2X
+DT,Dynatrace Inc,F,D,D,B,C,12915.12874,2X
+DXCM,Dexcom Inc,F,C,C,C,C,45283.32311,4X
+EBAY,EBay Inc.,F,C,C,C,C,36416.1262,4X
+EMR,Emerson Electric Co.,A,B,B,C,C,57986.6,4X
+ES,Eversource Energy,F,B,C,B,B,28670.15676,4X
+EVH,Evolent Health Inc,A,C,C,B,C,2687.847378,1X
+EVR,Evercore Inc,F,B,B,B,B,4668.463713,1X
+EXPO,Exponent Inc.,F,C,B,B,B,5282.40116,1X
+FFIV,F5 Inc,F,D,C,C,C,12301.89024,2X
+FIVN,Five9 Inc,F,D,C,D,D,7042.552818,2X
+FIZZ,National Beverage Corp.,D,C,C,B,C,4093.963579,1X
+FL,Foot Locker Inc,F,C,C,C,C,3357.140339,1X
+FLOW,SPX FLOW Inc,D,C,C,B,C,3588.074358,1X
+FREQ,Frequency Therapeutics Inc,F,D,C,D,D,87.25884525,.25X
+FRPT,Freshpet Inc,A,C,C,C,C,4437.464447,1X
+GIS,"General Mills, Inc.",D,B,B,C,C,37801.26593,4X
+GL,Globe Life Inc,A,C,C,B,C,9992.015324,2X
+GOGO,Gogo Inc,A,D,C,C,C,1957.125604,.5X
+GPRE,Green Plains Inc,F,C,C,D,C,1635.243161,.5X
+HAIN,Hain Celestial Group Inc,F,B,C,C,C,3251.805555,1X
+HEP,Holly Energy Partners L.P.,D,,,,,1733.436904,.5X
+HOG,"Harley-Davidson, Inc.",A,B,C,C,C,6207.685818,2X
+HPE,Hewlett Packard Enterprise Co,A,B,B,D,C,22289.17224,4X
+HSIC,Henry Schein Inc.,A,B,B,C,C,12189.6295,2X
+HTLD,"Heartland Express, Inc.",F,D,C,B,C,1178.841357,.5X
+HUBS,HubSpot Inc,F,D,B,C,C,23113.94518,4X
+ICHR,Ichor Holdings Ltd,F,C,C,C,C,1048.9983,.5X
+IDA,"Idacorp, Inc.",D,B,C,C,B,5569.431336,1X
+IGT,International Game Technology PLC,F,C,B,C,C,5283.591,1X
+IIIV,i3 Verticals Inc,A,D,C,F,D,587.0593304,.25X
+INTC,Intel Corp.,D,B,B,C,C,192504.65,4X
+IP,International Paper Co.,D,B,B,D,C,17591.46598,2X
+IPHI,Inphi Corp,B,D,C,D,D,9246.19913,2X
+JILL,J.Jill Inc,F,D,C,C,C,162.249685,.25X
+JW.A,John Wiley & Sons Inc.,D,D,C,C,C,2586.189475,1X
+KDNY,Chinook Therapeutics Inc,D,D,D,D,D,671.99604,.25X
+KN,Knowles Corp,D,C,C,C,C,1984.148762,.5X
+KNX,Knight-Swift Transportation Holdings Inc,D,C,C,B,C,9316.230186,2X
+LMAT,Lemaitre Vascular Inc,F,,,,,994.8881225,.5X
+LNT,Alliant Energy Corp.,D,B,C,C,C,15093.0513,2X
+LPI,Laredo Petroleum Inc.,A,D,C,C,C,1179.869374,.5X
+LVS,Las Vegas Sands Corp,A,C,C,C,C,29765.04074,4X
+MANU,Manchester United Plc.,D,B,C,D,C,568.7886177,.25X
+MCHX,Marchex Inc,D,D,D,C,C,83.8026084,.25X
+MET,Metlife Inc,A,B,C,C,C,58654.63121,4X
+MGNX,Macrogenics Inc,F,D,C,C,C,568.9088513,.25X
+MHO,MI Homes Inc.,F,C,C,C,C,1490.240548,.5X
+MIK,Michaels Companies Inc,D,C,B,C,C,3243.859515,1X
+MITK,Mitek Systems Inc,F,D,C,C,C,652.436747,.25X
+MNST,Monster Beverage Corp.,F,C,C,B,C,42622.90751,4X
+MSFT,Microsoft Corporation,F,B,C,C,C,2257698.778,4X
+MTOR,Meritor Inc,A,B,C,D,C,2496.400154,.5X
+MWA,Mueller Water Products Inc,D,C,C,C,C,2119.950342,.5X
+NDLS,Noodles & Company,F,D,C,C,C,298.447825,.25X
+NFG,National Fuel Gas Co.,A,C,C,C,C,6037.104206,2X
+A,Agilent Technologies Inc.,F,B,B,C,B,42114.77757,4X
+ABM,ABM Industries Inc.,A,B,C,C,C,2996.937432,1X
+ADS,Alliance Data System,D,C,C,C,C,3111.24243,1X
+ALLT,Allot Ltd,F,D,C,B,C,276.6754513,.25X
+ALV,Autoliv Inc.,F,B,B,C,C,6884.922615,2X
+ALXN,Alexion Pharmaceuticals Inc.,A,C,C,C,C,40336.00948,4X
+AMAT,Applied Materials Inc.,F,B,B,B,B,122021.7575,4X
+ANET,Arista Networks Inc,F,C,B,B,B,40276.23233,4X
+ANF,Abercrombie & Fitch Co.,D,B,C,C,C,1906.591533,.5X
+APA,APA Corporation,A,B,C,C,C,14784.42239,2X
+API,Agora Inc,F,D,D,C,C,1073.796525,.5X
+ARLP,"Alliance Resource Partners, LP",A,C,D,C,C,1835.42701,.5X
+ASTE,Astec Industries Inc.,F,C,C,B,C,1051.41304,.5X
+ATVI,Activision Blizzard Inc,A,C,D,B,C,61252.31713,4X
+AUD,Audacy Inc,A,C,D,C,C,427.2803374,.25X
+AUDC,Audiocodes,F,,,,,889.5750354,.25X
+AXL,American Axle & Manufacturing Holdings Inc,F,B,B,C,B,969.399738,.5X
+AZN,Astrazeneca plc,A,B,C,D,C,195902.736,4X
+BBSI,Barrett Business Services Inc.,A,D,D,C,C,580.5457261,.25X
+BFAM,"Bright Horizons Family Solutions, Inc.",A,D,C,C,C,8310.733471,2X
+BGCP,BGC Partners Inc,D,D,D,D,D,1555.81602,.5X
+BKE,"Buckle, Inc.",F,C,C,B,B,1908.694828,.5X
+BYND,Beyond Meat Inc,F,D,D,D,D,3180.433645,1X
+CASY,"Casey`s General Stores, Inc.",D,C,C,C,C,7107.677266,2X
+CC,Chemours Company,F,C,C,D,C,4969.775402,1X
+CDAY,Ceridian HCM Holding Inc.,F,D,C,D,C,10565.25211,2X
+CHUY,Chuy`s Holdings Inc,D,D,C,C,C,561.1192714,.25X
+CIR,Circor International Inc,A,B,B,C,C,585.911421,.25X
+CLMT,Calumet Specialty Products Partners L.P.,A,,,,,1093.600042,.5X
+CLR,Continental Resources Inc (OKLA),A,C,C,C,C,21998.02066,4X
+CMCO,Columbus Mckinnon Corp.,D,C,C,C,C,1250.11566,.5X
+CMI,Cummins Inc.,D,B,C,B,B,29690.78074,4X
+CNSL,Consolidated Communications Holdings Inc,F,C,C,C,C,546.1106431,.25X
+CONN,Conns Inc,F,D,C,C,C,585.5351604,.25X
+COO,"Cooper Companies, Inc.",A,C,C,D,C,20772.30616,4X
+CVE,Cenovus Energy Inc,A,B,C,C,C,30929.99196,4X
+CVX,Chevron Corp.,A,C,C,C,C,312771.5787,4X
+CWH,Camping World Holdings Inc,F,D,C,C,C,1424.718393,.5X
+CYBR,CyberArk Software Ltd,F,C,B,C,C,6242.266934,2X
+DBD,Diebold Nixdorf Inc,F,B,B,C,C,590.7877048,.25X
+DCP,DCP Midstream LP,A,C,C,C,C,6525.915755,2X
+DKL,Delek Logistics Partners LP,D,,,,,1769.423792,.5X
+DOOR,Masonite International Corp,F,C,C,C,C,2437.082382,.5X
+DORM,Dorman Products Inc,F,C,C,B,C,3179.742575,1X
+ECOL,US Ecology Inc.,A,C,C,C,C,1495.89002,.5X
+EFX,"Equifax, Inc.",F,C,C,C,C,29376.18586,4X
+EHTH,eHealth Inc,F,D,C,C,C,346.6988798,.25X
+ENSG,Ensign Group Inc,A,D,C,C,C,4798.11955,1X
+EPC,Edgewell Personal Care Co,F,B,C,D,C,2085.918785,.5X
+EPD,Enterprise Products Partners L P,A,B,C,C,C,52733.25967,4X
+ESI,Element Solutions Inc,F,B,B,C,C,5518.289137,1X
+FARO,Faro Technologies Inc.,F,C,C,B,C,997.0735328,.5X
+FLGT,Fulgent Genetics Inc,F,D,D,C,C,1910.32067,.5X
+FSTR,L.B. Foster Co.,A,C,C,C,C,162.7339046,.25X
+G,Genpact Ltd,F,B,B,C,C,8356.181882,2X
+GBX,"Greenbrier Cos., Inc.",A,C,C,D,C,1669.404047,.5X
+GDRX,GoodRx Holdings Inc,F,,,,,1347.169852,.5X
+GKOS,Glaukos Corporation,A,D,C,D,C,2588.329437,1X
+GLDD,Great Lakes Dredge & Dock Corporation,D,C,C,C,C,966.4813293,.5X
+GNRC,Generac Holdings Inc,F,C,C,B,C,20156.32962,4X
+GOLF,Acushnet Holdings Corp,F,C,B,B,B,3279.194977,1X
+GT,Goodyear Tire & Rubber Co.,F,B,C,C,C,4001.155613,1X
+GWW,W.W. Grainger Inc.,D,B,B,B,B,26138.72651,4X
+HLIO,Helios Technologies Inc,F,D,C,D,C,2495.985267,.5X
+HLNE,Hamilton Lane Inc,F,D,C,C,C,2969.287768,1X
+HQY,Healthequity Inc,A,D,C,C,C,4881.099589,1X
+HSKA,Heska Corp.,F,D,C,D,D,1613.854538,.5X
+HWM,Howmet Aerospace Inc,A,B,C,C,C,15325.03201,2X
+HZN,Horizon Global Corp,F,D,C,C,C,138.1753526,.25X
+IART,Integra Lifesciences Holdings Corp,D,C,C,D,C,5415.205177,1X
+ICLR,Icon Plc,F,C,B,B,C,19061.51592,2X
+ICPT,Intercept Pharmaceuticals Inc,A,D,C,D,D,550.475581,.25X
+INFI,Infinity Pharmaceuticals Inc.,F,D,D,C,C,95.81710212,.25X
+IONS,Ionis Pharmaceuticals Inc,A,D,C,C,D,4975.456355,1X
+ISEE,IVERIC bio Inc,A,D,C,B,C,1743.19751,.5X
+JKS,JinkoSolar Holding Co. Ltd,A,,,,,2514.542259,.5X
+KONA,Kona Grill Inc,B,,,,,0.5226016,.25X
+KSU,Kansas City Southern,A,B,B,C,B,26709.81412,4X
+LAD,"Lithia Motors, Inc.",A,C,B,D,C,10285.22848,2X
+LAZ,Lazard Ltd.,F,C,C,C,C,3979.515351,1X
+LEAF,Leaf Group Ltd,A,D,C,D,D,303.947527,.25X
+LIVN,LivaNova PLC,D,D,C,C,C,4271.344364,1X
+LNG,Cheniere Energy Inc.,A,B,C,D,C,33440.60821,4X
+LNN,Lindsay Corporation,D,C,C,C,C,1638.140205,.5X
+LYFT,Lyft Inc,F,D,C,C,C,12608.33702,2X
+MCS,Marcus Corp.,D,D,C,D,C,416.602998,.25X
+MDP,Meredith Corp.,B,C,C,D,C,2405.327151,.5X
+MDXG,Mimedx Group Inc,F,D,C,D,D,554.153193,.25X
+MEI,"Methode Electronics, Inc.",F,C,C,C,C,1645.167385,.5X
+MGI,Moneygram International Inc.,A,D,C,D,D,970.8781189,.5X
+MHK,"Mohawk Industries, Inc.",F,B,B,B,B,9975.415617,2X
+MMSI,"Merit Medical Systems, Inc.",A,C,C,C,C,3637.326671,1X
+MPLX,MPLX LP,A,,,,,32491.77871,4X
+MRTN,"Marten Transport, Ltd.",A,D,C,B,C,1629.439084,.5X
+MSM,"MSC Industrial Direct Co., Inc.",D,B,C,D,C,3762.944698,1X
+0UAN,Invesco Ltd,F,,,,,9827.644999,2X
+ACB,Aurora Cannabis Inc,F,D,C,B,C,703.0938549,.25X
+ACOR,Acorda Therapeutics Inc,F,D,C,C,C,18.9110533,.25X
+ACRX,Acelrx Pharmaceuticals Inc,F,D,D,F,D,37.7204086,.25X
+ADM,Archer Daniels Midland Co.,A,B,B,C,C,46663.22574,4X
+ADT,ADT Inc,F,D,C,D,C,5804.315986,1X
+ALLE,Allegion plc,F,C,C,B,B,10596.70387,2X
+AMBA,Ambarella Inc,F,D,C,B,C,3643.606704,1X
+AMWD,American Woodmark Corp.,D,C,C,C,C,996.0834305,.5X
+AMZN,Amazon.com Inc.,D,C,D,C,C,1633275.741,4X
+ANDE,Andersons Inc.,A,C,C,D,D,1497.05805,.5X
+AON,Aon plc.,A,C,B,B,C,71873.37666,4X
+APEI,American Public Education Inc,A,C,C,B,C,439.6899125,.25X
+ARVN,Arvinas Inc,F,D,C,C,C,3619.942769,1X
+AVNS,Avanos Medical Inc,D,D,C,D,D,1564.000198,.5X
+AXTA,Axalta Coating Systems Ltd,F,B,B,C,C,5671.16502,1X
+BC,Brunswick Corp.,D,C,B,B,B,7226.810378,2X
+BE,Bloom Energy Corp,A,C,C,D,C,3490.927065,1X
+BHC,Bausch Health Companies Inc,F,B,C,C,C,8683.171871,2X
+BIG,Big Lots Inc,F,D,C,C,C,1272.300634,.5X
+BLUE,Bluebird bio Inc,F,D,C,C,C,337.2169595,.25X
+BOOM,DMC Global Inc,F,C,C,B,C,651.4452549,.25X
+BUD,Anheuser-Busch In Bev SA/NV,A,,,,,102627.4044,4X
+BWA,BorgWarner Inc,F,B,C,D,C,9260.696559,2X
+CAL,Caleres Inc,F,C,C,C,C,789.852841,.25X
+CBZ,Cbiz Inc,A,D,C,C,C,2163.58776,.5X
+CCMP,CMC Materials Inc,D,B,B,C,C,5471.009303,1X
+CFG,Citizens Financial Group Inc,A,C,C,C,C,20984.59499,4X
+CHE,Chemed Corp.,D,D,C,B,C,7714.706513,2X
+CLDR,Cloudera Inc,A,D,C,C,C,4735.160002,1X
+CLH,"Clean Harbors, Inc.",A,B,B,C,C,5919.004077,1X
+CLVS,Clovis Oncology Inc,F,D,D,F,D,196.5602348,.25X
+CNP,Centerpoint Energy Inc.,A,B,B,C,C,18267.43655,2X
+COOP,Mr. Cooper Group Inc,A,D,C,F,D,4086.026533,1X
+COTY,Coty Inc,F,C,B,C,C,7393.556592,2X
+CPA,Copa Holdings S.A.,D,C,C,B,C,2484.552091,.5X
+CPRT,"Copart, Inc.",F,D,C,C,C,30642.87108,4X
+CPSI,Computer Programs & Systems Inc,A,D,C,C,C,485.3028835,.25X
+CRL,Charles River Laboratories International Inc.,F,C,B,B,B,14452.23929,2X
+CSL,Carlisle Companies Inc.,D,B,B,C,C,12807.78019,2X
+CSV,"Carriage Services, Inc.",F,D,D,D,D,999.3100874,.5X
+CVCO,Cavco Industries Inc,F,C,C,B,C,2623.172676,1X
+CVI,CVR Energy Inc,A,D,C,C,C,2193.57767,.5X
+CVLG,Covenant Logistics Group Inc,F,D,D,B,C,348.9117145,.25X
+CVS,CVS Health Corp,A,B,C,C,C,141590.37,4X
+DAL,"Delta Air Lines, Inc.",D,B,C,C,C,24111.9926,4X
+DRQ,"Dril-Quip, Inc.",A,D,C,B,C,1203.240496,.5X
+DVAX,Dynavax Technologies Corp.,F,D,D,D,D,1355.316687,.5X
+EAT,"Brinker International, Inc.",D,D,C,C,C,1654.619672,.5X
+ECHO,Echo Global Logistics Inc,A,C,C,B,C,1284.575531,.5X
+EGRX,Eagle Pharmaceuticals Inc,D,D,C,C,C,644.9018441,.25X
+EHC,Encompass Health Corp,A,C,C,C,C,6928.446461,2X
+EIX,Edison International,D,B,C,D,C,24547.91526,4X
+EOSE,Eos Energy Enterprises Inc,F,D,D,B,C,220.4447409,.25X
+EQIX,Equinix Inc,F,C,C,C,C,65720.48658,4X
+ETH,"Ethan Allen Interiors, Inc.",D,C,C,B,C,663.7440145,.25X
+EVC,Entravision Communications Corp.,D,D,D,D,D,397.8414245,.25X
+EVTC,Evertec Inc,F,D,C,C,C,3068.79466,1X
+EXAS,Exact Sciences Corp.,F,C,C,D,C,11517.12855,2X
+FARM,Farmer Bros. Co.,A,B,C,C,C,134.2223193,.25X
+FGEN,FibroGen Inc,D,D,D,B,C,1249.469984,.5X
+FORM,FormFactor Inc.,D,D,C,C,C,3325.357196,1X
+FOXA,Fox Corporation,A,C,C,C,C,13174.91622,2X
+FUL,H.B. Fuller Company,F,B,B,C,C,3532.92292,1X
+FVRR,Fiverr International Ltd,F,,,,,2704.76946,1X
+GEF,Greif Inc,A,B,B,C,C,1665.008444,.5X
+GEL,Genesis Energy L.P.,A,,,,,1427.581925,.5X
+GGG,Graco Inc.,F,B,C,B,B,12065.23314,2X
+GLYC,GlycoMimetics Inc,F,D,D,C,C,61.846812,.25X
+GTN,"Gray Television, Inc.",A,C,D,D,D,2076.484931,.5X
+H,Hyatt Hotels Corporation,D,B,B,C,C,4718.936427,1X
+HAE,Haemonetics Corp.,A,D,C,D,C,2919.215342,1X
+HBI,Hanesbrands Inc,D,B,B,C,C,5373.444771,1X
+HCKT,Hackett Group Inc (The),A,D,C,B,C,633.519365,.25X
+HLF,Herbalife Nutrition Ltd,F,C,C,C,C,3907.122627,1X
+HNI,HNI Corp.,D,B,C,B,B,1714.642816,.5X
+HOLX,"Hologic, Inc.",D,B,C,D,C,18988.74031,2X
+HOV,"Hovnanian Enterprises, Inc.",F,D,D,D,D,424.5802434,.25X
+HPQ,HP Inc,D,B,B,C,B,42746.91999,4X
+IDXX,"Idexx Laboratories, Inc.",F,C,C,C,C,46150.29007,4X
+INGN,Inogen Inc,D,C,C,C,C,752.7178264,.25X
+ITCI,Intra-Cellular Therapies Inc,A,D,C,C,C,4965.904131,1X
+JACK,"Jack In The Box, Inc.",A,D,C,C,C,1972.544208,.5X
+JBT,John Bean Technologies Corp,F,C,B,B,B,3726.922507,1X
+JPM,JPMorgan Chase & Co.,F,C,C,C,C,418640.5652,4X
+KAMN,Kaman Corp.,A,D,C,C,C,1215.908192,.5X
+KAR,KAR Auction Services Inc,A,C,C,D,C,2216.826548,.5X
+KEX,Kirby Corp.,A,C,C,C,C,4249.7063,1X
+KGC,Kinross Gold Corp.,D,,,,,7041.589148,2X
+KMPR,Kemper Corporation,D,C,C,B,C,3444.122473,1X
+KOS,Kosmos Energy Ltd,A,B,B,C,C,2618.321782,1X
+LC,LendingClub Corp,F,D,C,C,C,1621.003564,.5X
+LGF.A,Lions Gate Entertainment Corp.,D,D,C,D,D,1321.37196,.5X
+LGIH,LGI Homes Inc,F,D,C,C,C,3095.401809,1X
+MAT,"Mattel, Inc.",A,B,C,C,C,8274.085932,2X
+MCD,McDonald`s Corp,F,C,C,C,C,178425.1872,4X
+MCHP,"Microchip Technology, Inc.",F,B,B,C,C,42361.12963,4X
+0HCI,Alibaba Group Holding Ltd,F,,,,,291802.7453,4X
+AA,Alcoa Corp,A,B,C,C,C,15405.2459,2X
+ABNB,Airbnb Inc,A,D,D,C,D,56204.48928,4X
+ABT,Abbott Laboratories,F,B,B,C,B,217081.4844,4X
+AEGN,Aegion Corp,A,C,B,F,D,921.8967986,.5X
+AEIS,Advanced Energy Industries Inc.,D,C,C,C,C,3475.449312,1X
+AFL,Aflac Inc.,A,B,B,B,B,42223.16792,4X
+AGTC,Applied Genetic Technologies Corp,D,D,C,D,D,80.576189,.25X
+AKAOQ,Achaogen Inc,B,,,,,1.596999875,.25X
+ALB,Albemarle Corp.,F,B,B,C,C,23184.14163,4X
+ALGT,Allegiant Travel,F,D,C,C,C,2832.150194,1X
+ANIK,Anika Therapeutics Inc.,F,C,C,C,C,407.5947713,.25X
+APD,Air Products & Chemicals Inc.,F,B,B,C,B,51283.55078,4X
+APPN,Appian Corp,D,C,C,C,C,2452.559396,.5X
+ARGO,Argo Group International Holdings Ltd,F,C,C,C,C,1422.67656,.5X
+ASND,Ascendis Pharma A/S,F,C,C,C,C,6667.772266,2X
+AVDL,Avadel Pharmaceuticals plc,F,,,,,428.66848,.25X
+BA,Boeing Co.,D,B,C,D,C,113027.6716,4X
+BGFV,Big 5 Sporting Goods Corp,F,C,C,C,C,382.9382116,.25X
+BHE,Benchmark Electronics Inc.,D,C,C,C,C,938.6559827,.5X
+BK,Bank Of New York Mellon Corp,F,B,B,D,C,45143.98336,4X
+BKNG,Booking Holdings Inc,F,C,C,B,C,89769.54098,4X
+BMRN,Biomarin Pharmaceutical Inc.,D,C,C,D,C,14974.37867,2X
+BNTX,BioNTech SE,F,,,,,42135.765,4X
+BSET,Bassett Furniture Industries Inc.,A,C,C,C,C,199.3119338,.25X
+BWAY,Brainsway Ltd,A,,,,,132.2726087,.25X
+CCRN,"Cross Country Healthcares, Inc.",F,C,C,C,C,855.4626117,.25X
+CERN,Cerner Corp.,A,C,C,C,C,27678.65525,4X
+CIEN,CIENA Corp.,F,C,B,C,C,9311.245281,2X
+CKH,SEACOR Holdings Inc,C,C,C,C,C,850.690406,.25X
+CLB,Core Laboratories N.V.,A,C,C,B,C,1343.603872,.5X
+CMRE,Costamare Inc,A,D,C,D,D,2055.944397,.5X
+CNA,CNA Financial Corp.,A,B,C,C,C,12959.79588,2X
+CNC,Centene Corp.,A,C,C,D,D,51156.24222,4X
+CNX,CNX Resources Corp,A,B,C,C,C,4109.990626,1X
+COST,Costco Wholesale Corp,D,B,C,C,C,248017.7963,4X
+CQP,Cheniere Energy Partners LP,A,C,C,D,C,22923.38247,4X
+CRI,Carters Inc,D,C,B,B,C,4257.631879,1X
+CRTO,Criteo S.A,F,C,C,C,C,1678.872984,.5X
+CSIQ,Canadian Solar Inc,A,B,B,D,C,2096.00569,.5X
+CSOD,Cornerstone OnDemand Inc,B,D,C,D,D,3843.652622,1X
+CSU,Capital Senior Living Corp.,A,C,C,C,C,146.9453809,.25X
+CTAS,Cintas Corporation,F,C,C,B,B,41401.31042,4X
+CYH,"Community Health Systems, Inc.",F,C,C,C,C,1533.426811,.5X
+DAKT,Daktronics Inc.,F,C,C,B,C,185.9646594,.25X
+DBX,Dropbox Inc,D,C,B,C,C,6966.640305,2X
+DFS,Discover Financial Services,A,C,B,C,C,34690.42409,4X
+DLB,Dolby Laboratories Inc,F,C,C,C,C,4870.778989,1X
+DMRC,Digimarc Corporation,F,C,C,C,C,448.65719,.25X
+DNLI,Denali Therapeutics Inc,F,D,C,B,C,4273.215624,1X
+DOX,Amdocs Ltd,A,B,B,C,C,10342.36245,2X
+DVN,Devon Energy Corp.,A,B,C,C,C,39448.79,4X
+EB,Eventbrite Inc,F,D,C,D,D,1092.08057,.5X
+ECL,"Ecolab, Inc.",F,B,B,B,B,48960.96734,4X
+EEFT,Euronet Worldwide Inc,A,D,C,D,C,6793.743126,2X
+ELF,e.l.f. Beauty Inc,F,D,D,B,C,1343.333964,.5X
+EME,"Emcor Group, Inc.",D,C,C,B,B,6430.017474,2X
+EMKR,Emcore Corp.,F,D,C,C,C,141.2678035,.25X
+ENB,Enbridge Inc,A,C,C,C,C,90834.86294,4X
+EPAC,Enerpac Tool Group Corp,D,C,C,C,C,1210.634806,.5X
+ESNT,Essent Group Ltd,F,B,B,C,C,4659.476297,1X
+EV,Eaton Vance Corp.,D,C,C,C,C,8344.34622,2X
+EVER,EverQuote Inc,D,D,D,C,C,345.2434329,.25X
+EW,Edwards Lifesciences Corp,F,B,B,C,B,70292.68086,4X
+FBHS,Fortune Brands Home & Security Inc,F,C,C,C,C,11985.81495,2X
+FFG,"FBL Financial Group, Inc.",B,D,C,B,C,1487.247798,.5X
+FIVE,Five Below Inc,F,C,B,D,C,9197.097593,2X
+FMS,Fresenius Medical Care AG & Co. KGaA,A,D,C,D,D,19636.29194,2X
+FN,Fabrinet,F,B,B,B,B,3867.307691,1X
+FR,First Majestic Silver Corporation,A,B,B,C,C,2705.303752,1X
+GCI,Gannett Co Inc.,F,D,C,C,C,668.356892,.25X
+GE,General Electric Co.,A,B,C,D,C,14214.73431,2X
+GIII,G-III Apparel Group Ltd.,A,D,C,C,D,1525.947082,.5X
+GLNG,Golar Lng,A,C,C,D,C,2311.014346,.5X
+GLOG,GasLog Ltd,A,C,C,D,D,552.3261995,.25X
+GRA,W.R. Grace & Co.,A,B,B,C,C,4636.949624,1X
+GS,"Goldman Sachs Group, Inc.",F,B,C,D,D,117347.0666,4X
+GSKY,GreenSky Inc,F,D,C,D,D,815.2962016,.25X
+GTLS,Chart Industries Inc,A,C,C,C,C,6195.860547,2X
+HEXO,HEXO Corp,F,C,C,B,C,162.5191615,.25X
+HLI,Houlihan Lokey Inc,D,,,,,4968.999482,1X
+HMSY,HMS Holdings Corp,A,D,C,D,C,3277.425768,1X
+HVT,"Haverty Furniture Cos., Inc.",D,C,C,B,C,501.459665,.25X
+IEX,Idex Corporation,F,C,B,C,B,15122.86888,2X
+IMMR,Immersion Corp,D,D,C,C,C,182.613981,.25X
+INCY,Incyte Corp.,A,C,C,C,C,16606.81223,2X
+IPGP,IPG Photonics Corp,F,C,C,B,B,6366.137407,2X
+ITT,ITT Inc,F,C,C,B,C,7005.957,2X
+IVC,Invacare Corp.,F,C,C,D,C,60.55755664,.25X
+JAKK,Jakks Pacific Inc.,A,,,,,132.4792779,.25X
+JBSS,"Sanfilippo (John B.) & Son, Inc",F,C,C,B,C,731.5917168,.25X
+JNPR,Juniper Networks Inc,D,B,B,D,C,11481.1108,2X
+JOBS,51Job Inc.,A,D,D,B,C,3547.197193,1X
+KELYA,"Kelly Services, Inc.",A,C,C,B,C,810.2681007,.25X
+KMI,Kinder Morgan Inc,A,B,B,C,B,39313.15364,4X
+KR,Kroger Co.,A,B,C,C,C,41509.90046,4X
+KRO,"Kronos Worldwide, Inc.",A,C,C,C,C,1855.731667,.5X
+AAWW,Atlas Air Worldwide Holdings Inc.,D,C,D,C,C,2559.704696,.5X
+ADP,Automatic Data Processing Inc.,F,B,B,C,B,90754.47279,4X
+AEP,American Electric Power Company Inc.,A,B,C,D,C,47058.64346,4X
+AFMD,Affimed N.V.,F,D,C,C,C,509.1191824,.25X
+ALK,Alaska Air Group Inc.,A,C,C,B,C,6911.593872,2X
+ALTR,Altair Engineering Inc,F,B,B,C,C,3175.810926,1X
+AMCX,AMC Networks Inc,A,D,C,C,D,1244.616638,.5X
+AMOT,Allied Motion Technologies Inc,F,D,C,D,D,457.7830278,.25X
+AMRS,Amyris Inc,F,C,C,D,C,1428.621652,.5X
+ANTM,Anthem Inc,A,B,B,B,B,116548.6757,4X
+ARMK,Aramark,A,C,C,C,C,9492.438302,2X
+ASAN,Asana Inc,F,,,,,4178.466274,1X
+ATGE,Adtalem Global Education Inc,D,C,C,C,C,1451.402784,.5X
+ATI,Allegheny Technologies Inc,A,C,C,C,C,3318.566083,1X
+ATUS,Altice USA Inc,F,D,C,D,D,3165.885937,1X
+AWR,American States Water Co.,F,C,C,C,C,3227.674206,1X
+BABA,Alibaba Group Holding Ltd,F,,,,,293591.9483,4X
+BALY,Ballys Corporation,F,D,D,D,D,1706.265853,.5X
+BAND,Bandwidth Inc,F,D,C,D,D,689.7304764,.25X
+BKR,Baker Hughes Co,A,B,B,C,B,29237.31068,4X
+BMO,Bank of Montreal,A,B,B,C,C,78588.606,4X
+BMY,Bristol-Myers Squibb Co.,A,B,B,D,C,157814.5045,4X
+BPMC,Blueprint Medicines Corp,F,D,C,C,C,3810.826457,1X
+CACI,Caci International Inc.,A,C,C,D,C,6964.013285,2X
+CAKE,Cheesecake Factory Inc.,D,C,C,D,C,1988.525798,.5X
+CATO,Cato Corp.,F,D,C,C,C,356.59007,.25X
+CCI,Crown Castle International Corp,F,C,C,C,C,75582.49769,4X
+CCO,Clear Channel Outdoor Holdings Inc.,A,B,B,C,B,1746.935539,.5X
+CDE,Coeur Mining Inc,D,B,C,C,C,1215.73193,.5X
+CDEV,Centennial Resource Development Inc.,A,B,C,C,C,2218.367136,.5X
+CDLX,Cardlytics Inc,F,D,C,D,D,1792.426076,.5X
+CFX,Colfax Corp,F,C,B,C,C,5968.846475,2X
+CGC,Canopy Growth Corporation,F,B,B,C,C,2799.437591,1X
+CHDN,"Churchill Downs, Inc.",D,D,C,C,C,9016.002435,2X
+COP,Conoco Phillips,A,C,B,C,C,133372.5755,4X
+COUP,Coupa Software Inc,F,D,C,D,D,6714.227108,2X
+CSGS,CSG Systems International Inc.,A,D,C,C,C,2083.082558,.5X
+CUB,Cubic Corp.,C,C,C,D,C,2381.469975,.5X
+CWST,"Casella Waste Systems, Inc.",A,B,C,C,C,4388.182071,1X
+DG,Dollar General Corp.,D,B,C,C,B,53575.02536,4X
+DIOD,"Diodes, Inc.",F,B,C,C,C,4116.856778,1X
+DKS,"Dicks Sporting Goods, Inc.",D,C,B,C,B,7441.195225,2X
+DOV,Dover Corp.,F,B,B,C,C,22923.29661,4X
+DSPG,"DSP Group, Inc.",A,D,C,C,C,531.415911,.25X
+ECPG,"Encore Capital Group, Inc.",A,D,C,D,D,1954.231781,.5X
+EIGI,Endurance International Group Holdings Inc,A,D,C,C,C,1344.859473,.5X
+ENTA,Enanta Pharmaceuticals Inc,D,D,D,B,C,1425.955519,.5X
+EOLS,Evolus Inc,A,D,C,D,D,621.6224168,.25X
+EPAY,Bottomline Technologies (Delaware) Inc,A,C,C,C,C,2587.333357,1X
+ERJ,Embraer S.A.,F,,,,,2234.35321,.5X
+EVRG,Evergy Inc,D,B,C,C,C,14851.62084,2X
+EXLS,Exlservice Hldgs Inc,D,C,B,C,C,4563.83151,1X
+FAF,First American Financial Corp,F,D,D,C,C,7535.010447,2X
+FDX,Fedex Corp,F,B,C,C,C,58153.45376,4X
+FLDM,Fluidigm Corp,D,D,C,C,C,288.6728466,.25X
+FOXF,Fox Factory Holding Corp,F,D,C,D,C,4542.112958,1X
+FRANQ,Francesca`s Holdings Corp,A,C,B,D,C,0.4455648,.25X
+GATX,GATX Corp.,A,C,C,D,D,4379.635,1X
+GHM,Graham Corp.,F,D,C,C,C,83.60683402,.25X
+GLOB,Globant S.A.,F,C,C,C,C,11372.51961,2X
+GRC,Gorman-Rupp Co.,F,C,C,B,C,963.2892168,.5X
+GRPN,Groupon Inc,F,D,C,D,C,563.6239268,.25X
+GRUB,GrubHub Inc,A,C,D,B,C,5585.103577,1X
+GTE,Gran Tierra Energy Inc,A,B,B,C,C,554.1575999,.25X
+HA,"Hawaiian Holdings, Inc.",A,C,C,C,C,953.4983226,.5X
+HI,Hillenbrand Inc,F,C,B,D,C,3386.058926,1X
+HLIT,"Harmonic, Inc.",F,D,C,C,C,978.352729,.5X
+HMHC,Houghton Mifflin Harcourt Co,A,C,C,C,C,2668.243853,1X
+HOLI,Hollysys Automation Technologies Ltd,A,D,D,B,C,1036.774675,.5X
+HY,Hyster-Yale Materials Handling Inc,F,C,B,D,C,464.7538541,.25X
+IAA,IAA Inc,F,D,C,C,C,5433.658605,1X
+IBM,International Business Machines Corp.,D,B,C,D,C,115410.1726,4X
+IBP,Installed Building Products Inc,F,C,C,C,C,3126.975135,1X
+IMO,Imperial Oil Ltd.,A,C,C,B,C,30254.5934,4X
+INFY,Infosys Ltd,D,,,,,106216.3688,4X
+IOSP,Innospec Inc,A,B,C,B,B,2313.874786,.5X
+IRWD,Ironwood Pharmaceuticals Inc,A,D,C,D,D,2034.558687,.5X
+ITGR,Integer Holdings Corp,D,D,C,C,C,2620.534606,1X
+JNJ,Johnson & Johnson,A,B,B,C,C,460263.169,4X
+KHC,Kraft Heinz Co,A,B,C,D,C,46023.82406,4X
+KL,Kirkland Lake Gold Ltd,D,B,B,C,B,10346.47813,2X
+KNL,Knoll Inc,A,B,B,D,C,1261.37037,.5X
+KOP,Koppers Holdings Inc,D,C,C,D,D,638.0470434,.25X
+KRNT,Kornit Digital Ltd,F,C,C,C,C,4067.79726,1X
+L,Loews Corp.,A,C,C,B,C,16275.09213,2X
+LDOS,Leidos Holdings Inc,A,B,C,D,D,14932.2955,2X
+LEG,"Leggett & Platt, Inc.",F,C,B,D,C,4929.434,1X
+LOVE,Lovesac Company,F,D,D,B,C,729.7706708,.25X
+LOW,"Lowe`s Cos., Inc.",F,B,B,B,B,163185.6121,4X
+MA,Mastercard Incorporated,D,B,B,C,C,342678.1809,4X
+MAN,ManpowerGroup,D,C,C,C,C,5276.858348,1X
+MANH,"Manhattan Associates, Inc.",F,D,C,B,C,8908.318684,2X
+MANT,Mantech International Corp,A,C,C,C,C,2328.992198,.5X
+MAS,Masco Corp.,F,B,B,C,B,14187.15379,2X
+MD,MEDNAX Inc,F,C,C,C,C,2068.772342,.5X
+MKTX,MarketAxess Holdings Inc.,F,C,C,C,C,13446.05163,2X
+AAL,American Airlines Group Inc,D,C,C,C,C,10844.91867,2X
+ACLS,Axcelis Technologies Inc,A,B,B,C,C,2703.774054,1X
+ADMS,Adamas Pharmaceuticals Inc,C,D,C,F,D,374.7976733,.25X
+AEL,American Equity Investment Life Holding Co,A,C,C,D,C,3677.384635,1X
+AIMC,Altra Industrial Motion Corp,F,C,C,C,C,2646.694458,1X
+AJRD,Aerojet Rocketdyne Holdings Inc,F,C,C,C,C,3153.119855,1X
+AMKR,AMKOR Technology Inc.,D,C,B,C,C,5751.850933,1X
+AMP,Ameriprise Financial Inc,D,B,B,D,C,34217.05277,4X
+AMPH,Amphastar Pharmaceuticals Inc,A,D,C,C,C,1643.643679,.5X
+ASRT,Assertio Holdings Inc,A,D,C,D,D,19.24367706,.25X
+ATHM,Autohome Inc,A,D,C,B,C,3780.929461,1X
+AVA,Avista Corp.,A,B,B,C,C,3043.785745,1X
+AVAV,AeroVironment Inc.,A,C,C,B,C,2312.178466,.5X
+AVID,"Avid Technology, Inc.",D,C,C,D,C,1459.792747,.5X
+AXDX,Accelerate Diagnostics Inc,F,D,D,D,D,119.9224553,.25X
+BAC,Bank Of America Corp.,D,B,C,C,C,360999.3765,4X
+BAH,Booz Allen Hamilton Holding Corp,A,C,C,C,C,11717.88928,2X
+BG,Bunge Ltd.,A,B,B,D,C,14837.88018,2X
+BIDU,Baidu Inc,A,C,D,D,D,42270.37143,4X
+BILI,Bilibili Inc,F,D,C,D,D,8282.830746,2X
+BILL,Bill.com Holdings Inc,F,B,B,C,B,22301.93788,4X
+BL,BlackLine Inc,F,D,D,D,D,4342.704094,1X
+BLDP,Ballard Power Systems Inc.,D,C,B,C,C,3496.872615,1X
+BOOT,Boot Barn Holdings Inc,F,C,B,B,B,3093.618428,1X
+BTEGF,Baytex Energy Corp,A,,,,,2426.06,.5X
+C,Citigroup Inc,D,C,C,D,C,116236.1302,4X
+CAMP,Calamp Corp.,A,C,C,C,C,266.9616038,.25X
+CB,Chubb Limited,A,B,C,B,B,92797.90438,4X
+CBOE,Cboe Global Markets Inc.,F,C,C,B,C,12453.57633,2X
+CDNA,Caredx Inc,F,D,D,C,C,2089.298451,.5X
+CDNS,"Cadence Design Systems, Inc.",F,C,B,C,C,43972.0386,4X
+CHGG,Chegg Inc,A,D,C,D,C,4879.981992,1X
+CIT,CIT Group Inc,A,C,C,C,C,5304.2147,1X
+CLF,Cleveland-Cliffs Inc,A,C,C,F,D,13727.71748,2X
+CLSK,Cleanspark Inc,A,,,,,425.6715653,.25X
+CNK,Cinemark Holdings Inc,D,D,C,D,D,1922.407947,.5X
+CNO,CNO Financial Group Inc,A,C,C,C,C,3143.613779,1X
+COMM,CommScope Holding Company Inc,F,B,B,C,C,1768.388289,.5X
+CPRI,Capri Holdings Ltd,F,C,C,C,C,8445.924064,2X
+CRMT,"Americas Car Mart, Inc.",F,D,D,D,D,593.6229722,.25X
+CRY,Artivion Inc,F,D,C,F,D,703.2128904,.25X
+CS,Credit Suisse Group AG,F,B,B,B,B,21603.59392,4X
+CW,Curtiss-Wright Corp.,A,C,C,D,C,6311.671766,2X
+CWT,California Water Service Group,F,C,C,C,C,3014.28215,1X
+CYD,China Yuchai International,F,D,D,D,D,472.3218324,.25X
+DISCA,Discovery Inc,A,C,C,C,C,4440.223753,1X
+EBS,Emergent Biosolutions Inc,D,B,C,C,C,2296.243172,.5X
+ED,"Consolidated Edison, Inc.",A,B,C,D,C,31344.96637,4X
+EDU,New Oriental Education & Technology Group Inc.,F,,,,,2194.200154,.5X
+EGAN,eGain Corp,A,D,C,B,C,368.1612109,.25X
+ENDP,Endo International plc,F,C,C,D,C,562.7356748,.25X
+ENPH,Enphase Energy Inc,A,C,C,C,C,24840.30309,4X
+ESGC,Eros STX Global Corporation,F,D,C,D,C,71.98186978,.25X
+ESTC,Elastic N.V,F,D,C,B,C,7897.752291,2X
+EXTR,Extreme Networks Inc.,F,D,C,C,C,1661.584421,.5X
+F,Ford Motor Co.,F,B,C,D,C,66157.16165,4X
+FB,Meta Platforms Inc,F,C,C,C,C,516071.5168,4X
+FCX,Freeport-McMoRan Inc,A,B,B,C,B,70584.53553,4X
+FEYE,FireEye Inc,C,D,C,D,D,4130.843042,1X
+FHI,Federated Hermes Inc,F,D,C,B,C,3273.007725,1X
+FLO,"Flowers Foods, Inc.",D,C,C,C,C,5363.73267,1X
+FPRX,Five Prime Therapeutics Inc,A,D,C,D,D,1769.737102,.5X
+FSS,Federal Signal Corp.,F,B,C,C,C,2112.102654,.5X
+FTCH,Farfetch Ltd,F,C,C,C,C,4469.74784,1X
+GDDY,Godaddy Inc,D,C,C,D,D,13827.21181,2X
+GFI,Gold Fields Ltd,A,B,B,C,B,13839.51346,2X
+GHL,Greenhill & Co Inc,F,D,C,C,C,307.9010075,.25X
+GIFI,"Gulf Island Fabrication, Inc.",A,D,C,B,C,63.53907025,.25X
+GILD,"Gilead Sciences, Inc.",F,B,B,F,C,74501.35692,4X
+GLUU,Glu Mobile Inc,A,D,C,C,C,2203.86955,.5X
+GOOGL,Alphabet Inc,D,B,D,C,C,819705.9079,4X
+GPI,"Group 1 Automotive, Inc.",A,D,C,C,C,3576.494399,1X
+GRMN,Garmin Ltd,F,C,C,B,B,23003.61803,4X
+GTT,GTT Communications Inc,A,D,C,C,C,138.8141097,.25X
+HD,"Home Depot, Inc.",F,B,C,B,C,359602.9221,4X
+HGV,Hilton Grand Vacations Inc,A,C,C,C,C,6293.89405,2X
+HIBB,Hibbett Inc,F,C,B,B,C,756.4086013,.25X
+HII,Huntington Ingalls Industries Inc,A,C,C,C,C,7774.848697,2X
+HLX,Helix Energy Solutions Group Inc,A,C,C,C,C,701.1971313,.25X
+HURN,Huron Consulting Group Inc,D,D,C,C,C,1072.689226,.5X
+ICE,Intercontinental Exchange Inc,A,B,B,C,C,77095.94633,4X
+IEP,Icahn Enterprises L P,A,D,C,D,D,13626.00479,2X
+IPAR,"Inter Parfums, Inc.",F,C,C,C,C,2722.326388,1X
+IRBT,Irobot Corp,F,D,C,B,C,1659.498639,.5X
+IVAC,"Intevac, Inc.",A,D,C,B,C,129.5681357,.25X
+JBLU,Jetblue Airways Corp,A,C,C,C,C,4639.943227,1X
+JLL,Jones Lang Lasalle Inc.,F,B,B,C,C,11858.61383,2X
+K,Kellogg Co,D,B,B,C,C,20711.80525,4X
+KAI,"Kadant, Inc.",F,C,B,C,C,2376.625995,.5X
+KDP,Keurig Dr Pepper Inc,A,B,B,C,C,53601.38333,4X
+KKR,KKR & Co. Inc.,F,D,C,C,C,34672.85196,4X
+KMX,Carmax Inc,F,C,C,D,C,16935.96788,2X
+KTOS,Kratos Defense & Security Solutions Inc,A,D,D,D,D,2480.390295,.5X
+KW,Kennedy-Wilson Holdings Inc,D,C,C,C,C,3276.968297,1X
+LANC,Lancaster Colony Corp.,D,C,C,B,C,4230.96408,1X
+0Q15,Abbott Laboratories,F,,,,,211816.2169,4X
+AAON,AAON Inc.,F,C,C,B,C,3060.378007,1X
+ACIW,ACI Worldwide Inc,D,D,C,C,C,3907.531942,1X
+ACTG,Acacia Research Corp,F,D,D,C,C,188.508253,.25X
+ADAP,Adaptimmune Therapeutics Plc,F,D,C,C,C,340.2728188,.25X
+ADSK,Autodesk Inc.,F,B,B,C,C,46894.09907,4X
+AGIO,Agios Pharmaceuticals Inc,F,D,C,C,C,1738.478821,.5X
+ALNY,Alnylam Pharmaceuticals Inc,D,C,C,C,C,19639.58127,2X
+AMED,Amedisys Inc.,A,C,C,C,C,5448.231875,1X
+AMRN,Amarin Corp,D,,,,,1223.181201,.5X
+AN,Autonation Inc.,A,C,C,C,C,8480.480697,2X
+AOS,A.O. Smith Corp.,F,C,C,B,B,9064.095455,2X
+APH,Amphenol Corp.,F,B,C,C,C,45904.73493,4X
+ARWR,Arrowhead Pharmaceuticals Inc.,F,D,D,B,C,4939.803549,1X
+ASH,Ashland Global Holdings Inc,F,B,B,C,C,5734.443096,1X
+ATEN,A10 Networks Inc,F,D,C,B,C,1074.556609,.5X
+AZO,Autozone Inc.,D,C,C,B,C,40945.1878,4X
+BB,BlackBerry Ltd,F,B,B,B,B,3986.085038,1X
+BBBY,"Bed, Bath & Beyond Inc.",A,C,C,C,C,2230.398106,.5X
+BCO,Brink`s Co.,A,C,B,F,D,3299.729425,1X
+BCOR,Blucora Inc,A,C,C,C,C,933.9989079,.5X
+BDSI,Biodelivery Sciences International,A,D,C,D,D,550.1743067,.25X
+BIIB,Biogen Inc,F,B,B,C,C,31083.90521,4X
+BIO,Bio-Rad Laboratories Inc.,F,D,C,B,C,14531.23747,2X
+BKD,Brookdale Senior Living Inc,A,C,C,D,C,1235.058214,.5X
+BNFT,Benefitfocus Inc,A,C,C,D,C,366.5796896,.25X
+BRBR,Bellring Brands Inc,D,D,B,C,C,1080.215156,.5X
+BX,Blackstone Inc,D,C,C,B,B,84268.77875,4X
+CAG,Conagra Brands Inc,D,B,C,C,C,15225.35365,2X
+CBT,Cabot Corp.,A,B,B,C,B,4014.324713,1X
+CCS,Century Communities Inc,F,C,C,C,C,2168.304217,.5X
+CELH,Celsius Holdings Inc,F,D,D,C,D,4556.827298,1X
+CENT,Central Garden & Pet Co.,F,D,C,D,D,529.6346458,.25X
+CGNX,Cognex Corp.,D,B,C,B,B,12661.0683,2X
+CHS,"Chico`s Fas, Inc.",F,C,B,C,C,558.445416,.25X
+CLDX,Celldex Therapeutics Inc.,D,D,C,B,C,1652.429519,.5X
+CLW,Clearwater Paper Corp,F,B,B,D,C,507.4616445,.25X
+CMC,Commercial Metals Co.,A,B,B,C,B,4918.535508,1X
+CMG,Chipotle Mexican Grill,F,C,C,B,C,44607.06477,4X
+COLM,Columbia Sportswear Co.,D,B,C,B,B,6177.811798,2X
+CRBP,Corbus Pharmaceuticals Holdings Inc,F,,,,,41.33871382,.25X
+CRM,Salesforce.Com Inc,F,B,B,C,C,214205.2,4X
+CRWS,"Crown Crafts, Inc.",F,,,,,65.81586992,.25X
+CTRN,Citi Trends Inc,F,D,C,B,C,352.5389115,.25X
+CTS,CTS Corp.,D,C,B,C,C,1171.572119,.5X
+CTXS,"Citrix Systems, Inc.",A,B,B,D,C,12515.13994,2X
+CVGW,"Calavo Growers, Inc",F,C,C,C,C,612.7481745,.25X
+CX,Cemex S.A.B. De C.V.,F,,,,,7977.441536,2X
+DCO,Ducommun Inc.,A,C,C,D,D,605.790764,.25X
+DDD,3D Systems Corp.,F,D,C,B,C,2036.32975,.5X
+DE,Deere & Co.,A,B,C,D,C,128101.8996,4X
+DENN,Denny`s Corp.,F,D,C,C,C,928.3319711,.5X
+DGII,"Digi International, Inc.",F,D,C,C,C,694.1587279,.25X
+DHR,Danaher Corp.,F,C,B,D,C,208594.3139,4X
+DRI,"Darden Restaurants, Inc.",F,C,C,C,C,17343.16995,2X
+EA,"Electronic Arts, Inc.",D,C,C,C,C,35936.99059,4X
+ENV,Envestnet Inc.,D,D,C,D,D,4160.063077,1X
+EOG,"EOG Resources, Inc.",A,B,C,B,B,67610.89247,4X
+EPZM,Epizyme Inc,F,D,D,D,D,144.171819,.25X
+FLEX,Flex Ltd,D,B,C,D,C,8334.013228,2X
+FTNT,Fortinet Inc,F,B,B,B,B,52257.56439,4X
+GCO,Genesco Inc.,A,C,B,B,B,1075.765214,.5X
+GERN,Geron Corp.,B,D,D,C,D,391.1310179,.25X
+GFF,Griffon Corp.,F,C,C,D,C,1258.228845,.5X
+GLT,Glatfelter Corporation,F,C,C,D,C,569.9211392,.25X
+GNW,Genworth Financial Inc,D,C,C,C,C,1917.918453,.5X
+GSK,Glaxosmithkline plc,D,B,C,D,C,108232.5434,4X
+GSS,Golden Star Resources Ltd.,A,B,B,D,C,451.3276833,.25X
+HZO,"Marinemax, Inc.",F,D,C,B,C,999.2009003,.5X
+ICD,Independence Contract Drilling Inc,A,D,C,D,D,29.26550548,.25X
+IFF,International Flavors & Fragrances Inc.,F,B,B,D,C,32866.77993,4X
+IPG,"Interpublic Group Of Cos., Inc.",D,C,C,C,C,14186.07291,2X
+IR,Ingersoll-Rand Inc,F,C,C,C,C,21595.95698,4X
+ITW,"Illinois Tool Works, Inc.",F,B,B,B,B,66877.11595,4X
+JBHT,"J.B. Hunt Transport Services, Inc.",A,B,C,B,B,22624.51039,4X
+JCOM,J2 Global Inc.,A,D,C,D,D,6885.486642,2X
+JD,JD.com Inc,D,C,C,B,C,87069.68099,4X
+JELD,JELD-WEN Holding Inc.,D,C,C,D,C,2240.277439,.5X
+KRA,Kraton Corp,A,B,B,C,C,1494.245361,.5X
+LH,Laboratory Corp. Of America Holdings,F,C,B,C,C,26614.741,4X
+LKQ,LKQ Corp,F,C,C,C,C,13851.45993,2X
+LLNW,Limelight Networks Inc,A,D,C,D,D,605.6475674,.25X
+LUMN,Lumen Technologies Inc,A,B,C,C,C,12223.86739,2X
+LYB,LyondellBasell Industries NV,A,C,B,C,C,34264.40914,4X
+MAR,"Marriott International, Inc.",A,B,C,C,B,55749.11261,4X
+MBUU,Malibu Boats Inc,F,D,C,C,C,1277.264416,.5X
+MDCA,MDC Partners Inc.,A,D,C,D,D,397.3366065,.25X
+MIDD,Middleby Corp.,F,C,C,C,C,9603.340488,2X
+MMC,"Marsh & McLennan Cos., Inc.",D,C,C,B,C,82240.58803,4X
+MOS,Mosaic Company,A,C,B,C,C,23584.00228,4X
+MRIN,Marin Software Inc,F,,,,,17.87338,.25X
+MRNA,Moderna Inc,F,D,D,B,C,72224.43461,4X
+MXIM,"Maxim Integrated Products, Inc.",C,B,B,C,B,27679.02727,4X
+NCLH,Norwegian Cruise Line Holdings Ltd,D,B,C,D,C,7363.601895,2X
+NCMI,National Cinemedia Inc,F,D,C,C,C,202.640905,.25X
+NDAQ,Nasdaq Inc,F,C,C,C,C,29967.9446,4X
+NDSN,Nordson Corp.,F,B,C,B,C,13422.71831,2X
+AAIC,Arlington Asset Investment Corp,D,D,D,C,C,110.5722526,.25X
+ABC,Amerisource Bergen Corp.,A,B,C,B,C,31583.64163,4X
+ACI,Albertsons Companies Inc,A,,,,,16428.78273,2X
+AERI,Aerie Pharmaceuticals Inc,A,D,C,D,D,415.1816504,.25X
+AGI,Alamos Gold Inc.,A,B,B,B,B,3261.436852,1X
+AJG,Arthur J. Gallagher & Co.,D,C,C,C,C,34603.7475,4X
+ALL,Allstate Corp (The),A,B,C,C,C,39473.46797,4X
+ALTO,Alto Ingredients Inc,A,D,C,C,C,414.2693435,.25X
+AMRK,A-Mark Precious Metals Inc,A,,,,,841.7624639,.25X
+APPF,Appfolio Inc,D,,,,,2126.825048,.5X
+APPS,Digital Turbine Inc,F,B,B,C,C,4135.985484,1X
+ARAY,Accuray Inc,F,C,C,D,D,305.184301,.25X
+ARW,Arrow Electronics Inc.,D,C,B,C,C,9168.19008,2X
+ASPN,Aspen Aerogels Inc.,F,D,C,B,C,1016.251799,.5X
+ATSG,Air Transport Services Group Inc,A,C,C,D,C,2368.553855,.5X
+AWI,Armstrong World Industries Inc.,F,C,C,C,C,4406.141825,1X
+BCC,Boise Cascade Co,A,B,C,C,C,3201.920998,1X
+BJRI,BJ`s Restaurant Inc.,F,D,C,C,C,650.66767,.25X
+BLK,Blackrock Inc.,F,C,C,C,C,112410.2915,4X
+BLMN,Bloomin Brands Inc,A,D,C,C,C,1945.98159,.5X
+BOKF,BOK Financial Corp.,D,C,C,C,C,6963.799351,2X
+BRC,Brady Corp.,F,C,C,B,C,2259.475087,.5X
+CARR,Carrier Global Corp,F,C,C,C,C,41458.7727,4X
+CECE,Ceco Environmental Corp.,D,C,C,D,C,216.773975,.25X
+CEVA,Ceva Inc.,D,D,C,C,C,922.6020041,.5X
+CFMS,Conformis Inc.,F,,,,,129.0570603,.25X
+CHEF,Chefs` Warehouse Inc,F,D,C,C,C,1157.736172,.5X
+CNHI,CNH Industrial NV,F,B,B,C,C,21288.69218,4X
+CNS,Cohen & Steers Inc.,F,D,C,B,C,3996.032369,1X
+CNXN,"PC Connection, Inc.",A,D,C,C,C,1381.613388,.5X
+COKE,Coca-Cola Consolidated Inc,F,C,C,C,C,3664.11851,1X
+COWN,Cowen Inc,F,C,C,C,C,795.9015013,.25X
+CRNT,Ceragon Networks Ltd,F,D,C,B,C,181.7787703,.25X
+CROX,Crocs Inc,F,D,C,C,C,5185.485503,1X
+CVNA,Carvana Co.,F,D,C,D,C,12035.62712,2X
+CZR,Caesars Entertainment Inc,F,D,C,D,D,17251.5161,2X
+D,Dominion Energy Inc,A,B,C,C,C,65546.23287,4X
+DAR,Darling Ingredients Inc,A,B,B,C,B,11923.47489,2X
+DD,DuPont de Nemours Inc,D,C,C,B,C,40123.67884,4X
+DELL,Dell Technologies Inc,D,B,B,C,C,15074.70564,2X
+DIN,Dine Brands Global Inc,A,D,C,C,C,1353.126698,.5X
+DISH,Dish Network Corp,D,C,C,D,C,9161.220271,2X
+DUK,Duke Energy Corp.,A,C,C,D,C,80806.45133,4X
+ELAN,Elanco Animal Health Inc,D,D,C,D,D,12970.18419,2X
+ENS,Enersys,D,C,C,C,C,3276.41726,1X
+EQT,EQT Corp,A,B,C,B,B,10251.79755,2X
+ERIC,Telefonaktiebolaget L M Ericsson,F,,,,,27805.18177,4X
+ET,Energy Transfer LP,A,C,C,B,B,26480.67624,4X
+EVBG,Everbridge Inc,F,D,C,D,D,1568.430672,.5X
+EXEL,Exelixis Inc,A,D,C,B,C,6738.893575,2X
+EXPD,"Expeditors International Of Washington, Inc.",F,C,C,B,C,18140.97785,2X
+FCN,FTI Consulting Inc.,A,B,C,C,C,5318.986621,1X
+FF,Futurefuel Corp,A,C,C,C,C,422.98514,.25X
+FICO,"Fair, Isaac Corp.",A,C,C,C,C,13956.55951,2X
+FLR,Fluor Corporation,A,B,C,C,C,3978.0381,1X
+FLWS,1-800 Flowers.com Inc.,F,D,C,D,C,537.3968588,.25X
+FNF,Fidelity National Financial Inc,D,C,C,B,C,14245.7032,2X
+FOLD,Amicus Therapeutics Inc,F,D,C,D,C,2691.581731,1X
+FTDR,Frontdoor Inc.,F,C,B,C,C,2584.416841,.5X
+GD,General Dynamics Corp.,A,C,C,C,C,64358.81975,4X
+GLP,Global Partners LP,A,D,C,D,D,907.0016208,.25X
+GPC,Genuine Parts Co.,D,C,B,B,B,18474.41237,2X
+GPN,"Global Payments, Inc.",D,C,C,D,C,39655.99256,4X
+GWPH,GW Pharmaceuticals,A,D,C,B,C,6904.666466,2X
+HCSG,"Healthcare Services Group, Inc.",D,C,B,B,B,1319.20686,.5X
+HFC,HollyFrontier Corp,A,B,C,C,C,5797.649123,1X
+HIL,Hill International Inc,F,C,C,C,C,89.23016,.25X
+HIMX,Himax Technologies,F,C,C,B,C,2021.88,.5X
+HNGR,Hanger Inc,A,D,C,D,D,718.8686353,.25X
+HP,"Helmerich & Payne, Inc.",A,D,C,B,C,4341.846988,1X
+HSC,Harsco Corp.,F,C,C,D,C,1061.942634,.5X
+HSTM,Healthstream Inc,F,D,C,D,D,662.63736,.25X
+IBKR,Interactive Brokers Group Inc,F,C,C,B,C,6547.12927,2X
+INFN,Infinera Corp.,F,B,B,D,C,1783.465824,.5X
+IO,ION Geophysical Corp,A,D,C,C,C,27.71104193,.25X
+IQV,IQVIA Holdings Inc,F,C,C,C,C,43622.46464,4X
+IRM,Iron Mountain Inc.,D,B,C,C,C,14319.60173,2X
+IT,"Gartner, Inc.",F,C,C,C,C,24956.60397,4X
+JJSF,J&J Snack Foods Corp.,D,C,C,B,C,2967.105863,1X
+KRUS,Kura Sushi USA Inc,F,D,C,D,D,476.3597418,.25X
+KWR,Quaker Houghton,F,C,C,C,C,3330.181069,1X
+LAWS,"Lawson Products, Inc.",F,D,C,B,C,343.5246505,.25X
+LB,L Brands Inc,A,C,C,D,C,21128.68592,4X
+LEA,Lear Corp.,F,B,B,C,C,8620.68099,2X
+LMNX,Luminex Corp,A,D,C,D,C,1750.070214,.5X
+LORL,Loral Space & Communications Inc,C,D,C,B,C,889.10928,.25X
+LRCX,Lam Research Corp.,F,B,B,C,B,76686.79723,4X
+LUV,Southwest Airlines Co,A,B,C,B,C,25582.71064,4X
+MDT,Medtronic Plc,A,B,C,D,C,148281.343,4X
+MED,Medifast Inc,F,C,C,A,B,2184.82384,.5X
+MGA,Magna International Inc.,F,,,,,18908.22767,2X
+MGPI,"MGP Ingredients, Inc.",D,B,C,C,C,1830.986196,.5X
+MIXT,MiX Telematics Ltd,D,,,,,291.08862,.25X
+MLHR,Herman Miller Inc.,B,B,B,C,B,2949.109213,1X
+MLI,"Mueller Industries, Inc.",A,C,C,C,C,3456.207624,1X
+MTG,MGIC Investment Corp,D,C,B,B,B,4787.838443,1X
+0A2X,TAL Education Group,C,,,,,1548.669593,.5X
+ABEO,Abeona Therapeutics Inc,F,D,C,B,C,27.55399321,.25X
+ACCO,Acco Brands Corporation,A,B,C,D,C,794.3776056,.25X
+ACN,Accenture plc,F,B,B,B,B,204620.0054,4X
+AEM,Agnico Eagle Mines Ltd,A,B,B,C,B,14749.61747,2X
+AIR,AAR Corp.,A,B,B,D,C,1611.099996,.5X
+ALGN,"Align Technology, Inc.",F,B,C,C,C,34991.84205,4X
+ALKS,Alkermes plc,A,B,C,D,C,4213.534949,1X
+AMRC,Ameresco Inc.,D,C,C,D,C,2557.225828,.5X
+AOSL,Alpha & Omega Semiconductor Ltd,D,C,C,D,C,1522.154536,.5X
+ASML,ASML Holding NV,F,B,B,B,B,281005.9845,4X
+ATNI,ATN International Inc,D,D,C,C,C,619.3333709,.25X
+AVNT,Avient Corp,F,B,B,D,C,4674.42473,1X
+AXP,American Express Co.,A,B,B,B,B,151514.2763,4X
+BBY,Best Buy Co. Inc.,A,B,B,B,B,25048.99616,4X
+BDC,Belden Inc,F,C,C,C,C,2610.919383,1X
+BEP,Brookfield Renewable Partners LP,A,,,,,11022.52825,2X
+BKH,Black Hills Corporation,A,C,C,D,C,4562.961808,1X
+BLDR,Builders Firstsource Inc,F,D,C,D,D,16222.34845,2X
+BR,"Broadridge Financial Solutions, Inc.",F,C,C,C,C,17842.29304,2X
+BWXT,BWX Technologies Inc,A,C,C,C,C,5140.483953,1X
+BZUN,Baozun Inc,F,,,,,535.0011902,.25X
+CAJ,Canon Inc,D,D,D,C,C,32197.04983,4X
+CATM,Cardtronics plc,C,C,C,C,C,1761.884192,.5X
+CHNG,Change Healthcare Inc,A,C,C,D,D,6733.266285,2X
+CL,Colgate-Palmolive Co.,F,B,B,C,B,60901.67398,4X
+CLS,"Celestica, Inc.",A,B,B,B,B,1318.926525,.5X
+CMA,"Comerica, Inc.",A,B,B,B,B,12716.05057,2X
+CMS,CMS Energy Corporation,A,B,C,C,C,19175.11056,2X
+COF,Capital One Financial Corp.,D,B,C,C,C,61657.38401,4X
+CPE,Callon Petroleum Co.,A,C,C,C,C,2592.737234,1X
+CPF,Central Pacific Financial Corp.,D,B,B,C,C,792.949966,.25X
+CR,Crane Co.,A,B,C,C,C,6400.991351,2X
+CSII,Cardiovascular Systems Inc.,A,D,C,C,C,833.9155585,.25X
+CSX,CSX Corp.,D,B,C,B,B,81860.74649,4X
+CULP,Culp Inc.,F,C,C,B,C,96.89407496,.25X
+CVLT,Commvault Systems Inc,D,C,C,B,C,3040.327229,1X
+CWCO,Consolidated Water Co. Ltd.,F,C,C,B,B,148.1522083,.25X
+DCI,Donaldson Co. Inc.,F,C,C,B,C,6494.923241,2X
+DCOM,Dime Community Bancshares Inc,D,D,C,C,C,1411.461009,.5X
+DHI,D.R. Horton Inc.,F,D,C,C,C,30710.69376,4X
+DOOO,BRP Inc,F,,,,,2737.281473,1X
+DQ,Daqo New Energy Corp,A,C,C,C,C,3302.965149,1X
+DTIL,Precision Biosciences Inc,F,D,C,C,C,203.9882603,.25X
+DY,"Dycom Industries, Inc.",A,D,C,B,C,2994.43205,1X
+EGHT,8X8 Inc.,F,D,C,D,D,1313.026924,.5X
+EPAM,EPAM Systems Inc,F,C,B,B,B,16675.97273,2X
+EXC,Exelon Corp.,F,B,B,D,C,42291.26255,4X
+EXPE,Expedia Group Inc,A,C,C,D,C,28068.34889,4X
+EXPR,Express Inc.,A,D,C,C,C,236.4322094,.25X
+FIS,"Fidelity National Information Services, Inc.",F,C,C,D,C,59187.12364,4X
+FLS,Flowserve Corp.,A,B,B,C,C,4406.790152,1X
+FORR,Forrester Research Inc.,F,D,C,C,C,1020.696,.5X
+FOSL,Fossil Group Inc,A,C,C,C,C,552.7262516,.25X
+FSLY,Fastly Inc,F,D,C,B,C,1990.362,.5X
+FWRD,Forward Air Corp.,F,C,D,B,C,2878.332316,1X
+GBT,Global Blood Therapeutics Inc.,A,C,C,C,C,2008.120876,.5X
+GDOT,Green Dot Corp.,F,D,C,B,B,1557.24,.5X
+GIL,Gildan Activewear Inc,F,B,B,B,B,7680.876227,2X
+GLW,"Corning, Inc.",A,B,B,D,C,32470.30154,4X
+GM,General Motors Company,F,B,C,D,C,65066.26125,4X
+GO,Grocery Outlet Holding Corp,A,D,D,C,D,3044.515845,1X
+GPK,Graphic Packaging Holding Co,A,B,C,D,C,6156.328961,2X
+GPS,"Gap, Inc.",F,C,C,C,C,5818.345356,1X
+GSM,Ferroglobe Plc,A,C,C,C,C,1287.306915,.5X
+HALO,Halozyme Therapeutics Inc.,D,D,C,D,D,5310.515119,1X
+HAYN,Haynes International Inc.,A,C,C,B,C,540.7936726,.25X
+HBAN,"Huntington Bancshares, Inc.",D,B,C,C,C,22325.54828,4X
+HDSN,"Hudson Technologies, Inc.",A,,,,,263.212698,.25X
+HEES,H&E Equipment Services Inc,A,D,C,C,C,1607.203612,.5X
+HL,Hecla Mining Co.,A,B,C,C,C,3608.482295,1X
+HPR,HighPoint Resources Corp,A,C,C,D,C,20.36300475,.25X
+HRB,H&R Block Inc.,A,D,C,C,C,4833.329086,1X
+HSII,"Heidrick & Struggles International, Inc.",D,C,C,C,C,791.9140477,.25X
+HUBG,"Hub Group, Inc.",D,C,C,B,C,2796.524358,1X
+IMGN,"Immunogen, Inc.",F,D,C,D,D,1064.649932,.5X
+INO,Inovio Pharmaceuticals Inc,F,D,D,C,C,790.941929,.25X
+INSM,Insmed Inc,F,D,C,D,D,2790.121784,1X
+IRDM,Iridium Communications Inc,D,B,C,B,B,5396.124404,1X
+IRTC,iRhythm Technologies Inc,A,C,C,D,C,4074.423595,1X
+J,"Jacobs Engineering Group, Inc.",A,B,C,C,C,18403.00126,2X
+JAZZ,Jazz Pharmaceuticals plc,A,D,C,D,D,9610.211812,2X
+JKHY,"Jack Henry & Associates, Inc.",A,C,C,B,C,13730.33695,2X
+JOE,St. Joe Co.,A,D,D,C,C,3200.663586,1X
+KBH,KB Home,F,C,C,C,C,3358.266331,1X
+KBR,KBR Inc,A,C,C,D,C,7398.185169,2X
+KEYS,Keysight Technologies Inc,F,B,B,C,B,29731.05199,4X
+KFY,Korn Ferry,F,C,B,C,C,3630.645326,1X
+LECO,"Lincoln Electric Holdings, Inc.",D,B,C,B,B,7968.494122,2X
+LNDC,Landec Corp.,D,D,D,C,D,306.9910182,.25X
+LZB,La-Z-Boy Inc.,F,C,C,B,C,1304.431217,.5X
+M,Macy`s Inc,A,C,C,C,C,8560.241916,2X
+MC,Moelis & Co,F,C,C,C,C,2897.292145,1X
+MCK,Mckesson Corporation,A,C,C,C,C,46255.43046,4X
+MDC,"M.D.C. Holdings, Inc.",F,B,B,C,C,3080.455349,1X
+MG,Mistras Group Inc,D,B,C,C,C,206.3174718,.25X
+MGRC,McGrath Rentcorp,A,C,C,B,C,2057.452764,.5X
+AAPL,Apple Inc,D,B,C,C,C,2710616.621,4X
+ABBV,Abbvie Inc,A,B,B,F,C,281334.3447,4X
+ABCB,Ameris Bancorp,D,C,C,C,C,3291.578516,1X
+ABG,Asbury Automotive Group Inc,A,B,B,D,C,3680.856886,1X
+ACAD,Acadia Pharmaceuticals Inc,A,C,C,C,C,4077.126548,1X
+ACM,AECOM,A,C,C,B,C,11244.02482,2X
+ADTN,Adtran Inc.,F,B,C,B,C,954.2396058,.5X
+AIG,American International Group Inc,A,C,C,C,C,52193.00473,4X
+AIZ,Assurant Inc,A,C,C,C,C,10375.89443,2X
+ALG,Alamo Group Inc.,A,C,C,C,C,1778.076848,.5X
+ALLK,Allakos Inc,F,D,C,C,C,334.2380812,.25X
+ALSN,Allison Transmission Holdings Inc,A,C,C,B,C,4166.748812,1X
+AMC,AMC Entertainment Holdings Inc,F,D,C,C,C,8110.617792,2X
+AMRX,Amneal Pharmaceuticals Inc,F,D,D,D,D,625.4742837,.25X
+AMT,American Tower Corp.,F,B,C,C,C,110385.4144,4X
+ANGI,Angi Inc,F,D,C,D,D,505.6405278,.25X
+APRN,Blue Apron Holdings Inc,F,D,C,C,C,106.1759847,.25X
+ASC,Ardmore Shipping Corp,A,B,C,D,C,150.8574508,.25X
+ATO,Atmos Energy Corp.,A,B,B,D,C,14744.04835,2X
+ATR,Aptargroup Inc.,D,B,B,C,B,7766.071412,2X
+AVTR,Avantor Inc.,F,C,B,C,C,20527.49516,4X
+AXAS,Abraxas Petroleum Corp.,A,D,C,C,C,18.16605987,.25X
+AXS,Axis Capital Holdings Ltd,A,D,C,C,C,4702.169767,1X
+AYI,"Acuity Brands, Inc.",F,C,B,B,C,6761.593225,2X
+BAX,Baxter International Inc.,D,B,B,D,C,39552.89938,4X
+BCRX,Biocryst Pharmaceuticals Inc.,A,D,C,D,D,2901.270232,1X
+BKI,Black Knight Inc,F,C,C,F,D,9488.647278,2X
+BMI,Badger Meter Inc.,D,C,C,B,B,2915.013724,1X
+BRKS,"Brooks Automation, Inc.",A,C,C,C,C,8402.96005,2X
+BURL,Burlington Stores Inc,F,C,C,C,C,13158.06667,2X
+CABO,Cable One Inc,F,D,C,C,C,9231.901011,2X
+CACC,Credit Acceptance Corp.,F,D,C,C,C,8099.136879,2X
+CARG,CarGurus Inc,A,D,C,D,C,4369.081954,1X
+CBRL,Cracker Barrel Old Country Store Inc,D,D,C,C,C,2907.711974,1X
+CCJ,Cameco Corp.,A,,,,,10894.44837,2X
+CCOI,Cogent Communications Holdings Inc,F,D,C,C,C,3093.499452,1X
+CDK,CDK Global Inc,A,D,C,C,C,5738.307976,1X
+CE,Celanese Corp,F,B,B,D,C,15872.84089,2X
+CGIP,"Celadon Group, Inc.",A,D,C,C,C,0.0028299,.25X
+CHH,"Choice Hotels International, Inc.",F,B,B,C,C,7877.304571,2X
+CHKP,Check Point Software Technolgies,A,C,B,B,B,18574.48633,2X
+CLAR,Clarus Corp,F,D,C,D,D,816.9472568,.25X
+CLFD,Clearfield Inc,F,D,C,B,C,942.738587,.5X
+CME,CME Group Inc,A,C,C,C,C,89640.12895,4X
+CNR,Cornerstone Building Brands Inc,A,B,B,B,B,3066.821244,1X
+COG,Cabot Oil & Gas Corp.,B,C,C,C,C,8892.528027,2X
+CPK,Chesapeake Utilities Corp,F,C,C,C,C,2306.984885,.5X
+CSTE,Caesarstone Ltd,A,C,C,C,C,397.0343509,.25X
+CTSO,Cytosorbents Corp,F,D,D,C,C,144.41877,.25X
+CUTR,Cutera Inc,A,D,C,D,D,844.5509332,.25X
+CVA,Covanta Holding Corporation,C,B,C,C,C,2694.766027,1X
+DAN,Dana Inc,F,B,B,C,C,2691.089979,1X
+DASH,DoorDash Inc,F,D,C,C,C,32895.38856,4X
+DBI,Designer Brands Inc,D,D,C,C,C,898.7252681,.25X
+DDOG,Datadog Inc,F,D,C,C,C,34943.74576,4X
+DDS,Dillard`s Inc.,A,D,C,C,C,4921.59644,1X
+DGX,"Quest Diagnostics, Inc.",F,C,B,C,C,17723.5409,2X
+DLTR,Dollar Tree Inc,A,C,C,C,C,35349.39829,4X
+DRH,Diamondrock Hospitality Co.,A,C,C,C,C,2129.366582,.5X
+EBIX,Ebix Inc.,A,D,C,D,D,1092.612831,.5X
+ENTG,Entegris Inc,D,C,C,C,C,18283.96029,2X
+ESE,"Esco Technologies, Inc.",F,D,C,C,C,1918.38201,.5X
+FAST,Fastenal Co.,F,C,B,B,B,33260.16867,4X
+FATE,Fate Therapeutics Inc,F,,,,,3593.216649,1X
+FELE,"Franklin Electric Co., Inc.",F,C,C,B,C,3964.40241,1X
+FET,Forum Energy Technologies Inc,A,C,C,C,C,134.6697363,.25X
+FIX,"Comfort Systems USA, Inc.",D,D,C,C,C,3352.058562,1X
+FLT,Fleetcor Technologies Inc,A,C,C,C,C,19759.72796,2X
+FND,Floor & Decor Holdings Inc,F,D,C,B,C,10907.00696,2X
+FNV,Franco-Nevada Corporation,A,B,C,B,B,29544.93256,4X
+FRGI,Fiesta Restaurant Group Inc,F,D,C,C,C,243.428044,.25X
+FRTA,Forterra Inc,A,C,D,D,D,1606.099392,.5X
+FSM,Fortuna Silver Mines Inc.,A,,,,,1218.159096,.5X
+FTK,Flotek Industries Inc,A,D,D,B,C,112.6293522,.25X
+GH,Guardant Health Inc,F,D,D,C,C,6023.218859,2X
+GLBR,Global Brokerage Inc,F,,,,,0.005603,.25X
+GME,Gamestop Corporation,F,C,C,B,C,6944.662922,2X
+GNMK,GenMark Diagnostics Inc,C,D,C,D,D,1769.224305,.5X
+GOOS,Canada Goose Holdings Inc,F,C,C,C,C,1565.503292,.5X
+GPX,GP Strategies Corp.,A,D,C,B,C,365.8168571,.25X
+HCI,HCI Group Inc,F,C,C,C,C,583.5751331,.25X
+HE,"Hawaiian Electric Industries, Inc.",D,C,C,B,C,4523.290587,1X
+HMTV,Hemisphere Media Group Inc,F,,,,,119.0155376,.25X
+HOMB,Home Bancshares Inc,D,D,C,B,C,3814.964579,1X
+HRL,Hormel Foods Corp.,A,C,C,C,C,26726.35087,4X
+HSY,Hershey Company,A,B,C,C,C,30063.86881,4X
+HXL,Hexcel Corp.,A,B,C,C,C,4846.48717,1X
+IAC,IAC InterActiveCorp.,A,D,D,C,C,21080.71843,4X
+IIVI,Ii-Vi Inc.,A,D,C,C,C,7483.800298,2X
+IMAX,Imax Corp,A,D,C,C,C,1067.344485,.5X
+INFO,IHS Markit Ltd,F,B,B,C,C,43318.16206,4X
+INT,World Fuel Services Corp.,A,C,C,B,C,1722.816151,.5X
+INVA,Innoviva Inc,A,D,D,C,C,1320.397058,.5X
+IVZ,Invesco Ltd,D,B,C,C,C,9873.784178,2X
+JWN,"Nordstrom, Inc.",A,C,C,D,C,4270.25749,1X
+KALU,Kaiser Aluminum Corp,D,C,C,C,C,1457.993253,.5X
+0Q19,Ceva Inc.,F,,,,,847.0936496,.25X
+ADBE,Adobe Inc,F,B,B,C,B,215694.414,4X
+ADI,Analog Devices Inc.,D,B,B,B,B,87839.84054,4X
+AIN,Albany International Corp.,D,C,C,C,C,2676.031876,1X
+AIT,Applied Industrial Technologies Inc.,D,C,C,B,C,3929.904279,1X
+ALEX,Alexander & Baldwin Inc.,D,D,C,C,C,1720.097286,.5X
+ALLY,Ally Financial Inc,D,C,C,C,C,16209.95645,2X
+AMG,Affiliated Managers Group Inc.,F,B,C,D,C,5878.833769,1X
+AMGN,AMGEN Inc.,A,B,C,D,C,134155.1184,4X
+ANGO,Angiodynamic Inc,F,D,D,C,C,923.7453726,.5X
+ANSS,Ansys Inc.,F,B,B,C,C,27798.65383,4X
+APOG,Apogee Enterprises Inc.,A,C,C,B,C,1252.039095,.5X
+ARDX,Ardelyx Inc,D,D,D,D,D,111.3685308,.25X
+AROC,Archrock Inc,A,C,B,C,C,1318.591165,.5X
+ATKR,Atkore Inc,D,C,C,C,C,5092.506009,1X
+AVLR,Avalara Inc,F,C,C,C,C,8017.050421,2X
+AX,Axos Financial Inc.,F,D,C,C,C,2945.211574,1X
+B,Barnes Group Inc.,F,B,C,C,C,2106.462203,.5X
+BCOV,Brightcove Inc,F,D,C,C,C,313.8475252,.25X
+BDX,"Becton, Dickinson And Co.",A,B,B,C,C,75255.31477,4X
+BEN,"Franklin Resources, Inc.",F,B,B,C,C,14039.68882,2X
+BGNE,BeiGene Ltd,F,,,,,17955.55747,2X
+BJ,BJ`s Wholesale Club Holdings Inc,D,D,C,C,C,9010.534271,2X
+BLL,Ball Corp.,D,B,B,C,B,30374.75827,4X
+BSX,Boston Scientific Corp.,A,B,C,D,C,62962.76409,4X
+BVN,Compania de Minas Buenaventura S.A.,A,,,,,2562.523419,.5X
+CAI,Cai International Inc,B,C,C,C,C,972.022744,.5X
+CARA,Cara Therapeutics Inc,A,D,D,C,D,614.1026154,.25X
+CDW,CDW Corp,F,C,C,C,C,24665.31129,4X
+CENX,Century Aluminum Co.,A,C,C,B,C,2197.347897,.5X
+CEQP,Crestwood Equity Partners LP,A,C,B,D,C,1879.510176,.5X
+CHRW,"C.H. Robinson Worldwide, Inc.",D,B,C,B,B,13817.87927,2X
+CLGX,CoreLogic Inc,A,D,C,C,C,5885.68704,1X
+CLX,Clorox Co.,F,B,B,B,B,16436.07383,2X
+CMCSA,Comcast Corp,D,C,C,C,C,214861.5378,4X
+CMD,Cantel Medical Corp,D,C,C,D,C,3397.323163,1X
+CMTL,Comtech Telecommunications Corp.,F,D,C,D,D,435.6019058,.25X
+COHU,"Cohu, Inc.",F,C,C,C,C,1561.422638,.5X
+CORT,Corcept Therapeutics Inc,A,D,D,B,C,2894.687926,1X
+CP,Canadian Pacific Railway Ltd,A,B,B,B,B,53334.16802,4X
+CPB,Campbell Soup Co.,D,B,C,C,C,12818.46136,2X
+CRS,Carpenter Technology Corp.,A,C,C,C,C,1827.994247,.5X
+CRSP,CRISPR Therapeutics AG,F,D,D,C,D,5173.29845,1X
+CRWD,Crowdstrike Holdings Inc,A,D,C,C,C,42825.92253,4X
+CSGP,"Costar Group, Inc.",F,C,B,C,C,25755.0252,4X
+CTBI,"Community Trust Bancorp, Inc.",D,D,C,C,C,740.7836089,.25X
+CTVA,Corteva Inc,A,C,C,B,C,41004.23225,4X
+DECK,Deckers Outdoor Corp.,F,B,B,B,B,8054.850319,2X
+DLX,Deluxe Corp.,A,C,C,D,C,1414.188155,.5X
+DNOW,NOW Inc,A,D,C,B,B,1117.749781,.5X
+DSX,Diana Shipping Inc,A,D,D,C,C,411.02132,.25X
+DTE,DTE Energy Co.,A,B,C,D,C,24426.25841,4X
+DVA,DaVita Inc,D,C,C,D,C,11904.232,2X
+DXC,DXC Technology Co,A,B,B,C,C,8363.220834,2X
+DXLG,Destination XL Group Inc,D,,,,,341.8959119,.25X
+ECOM,ChannelAdvisor Corp,F,D,C,C,C,511.0431443,.25X
+EGY,"VAALCO Energy, Inc.",A,,,,,332.1773015,.25X
+EL,"Estee Lauder Cos., Inc.",F,B,B,C,B,64523.22812,4X
+ELY,Callaway Golf Co.,F,C,C,C,C,4539.521183,1X
+ENR,Energizer Holdings Inc,F,B,B,B,B,2088.75626,.5X
+ERIE,Erie Indemnity Co.,D,D,C,B,C,8170.846129,2X
+ETN,Eaton Corporation plc,F,B,C,C,C,61998.63,4X
+ETR,Entergy Corp.,D,C,C,D,C,21994.47626,4X
+FDP,Fresh Del Monte Produce Inc,D,B,B,C,C,1247.52369,.5X
+FE,Firstenergy Corp.,A,B,C,D,C,23476.5135,4X
+FLY,Fly Leasing Ltd,B,,,,,519.0926051,.25X
+FMC,FMC Corp.,A,B,B,C,C,16658.84865,2X
+FSLR,First Solar Inc,F,B,B,C,B,8250.377835,2X
+FTV,Fortive Corp,F,C,C,B,C,22184.3969,4X
+GEN,Genesis Healthcare Inc,C,B,C,C,C,46.97078037,.25X
+GMS,GMS Inc,F,C,C,C,C,2361.082856,.5X
+GNTX,Gentex Corp.,F,C,C,B,B,7070.651227,2X
+GOLD,Barrick Gold Corp.,A,,,,,42464.73,4X
+GPRO,GoPro Inc.,F,D,C,C,C,1018.073072,.5X
+GTS,Triple-S Management Corp,A,D,C,C,C,856.3597002,.25X
+GVA,Granite Construction Inc.,F,B,C,B,C,1523.537943,.5X
+GWRE,Guidewire Software Inc,F,D,C,C,C,7803.147128,2X
+HCA,HCA Healthcare Inc,A,C,B,C,C,83454.59049,4X
+HES,Hess Corporation,A,B,C,B,B,30165.24225,4X
+HLT,Hilton Worldwide Holdings Inc,D,B,B,C,B,42301.7484,4X
+HON,Honeywell International Inc,D,B,B,C,C,134434.5449,4X
+HRC,Hill-Rom Holdings Inc,C,C,B,C,C,10265.82526,2X
+HRTG,Heritage Insurance Holdings Inc.,A,D,D,C,C,194.9301677,.25X
+HTHT,Huazhu Group Limited,F,,,,,10740.20867,2X
+HUM,Humana Inc.,D,C,B,B,B,56620.44001,4X
+ICFI,"ICF International, Inc",F,C,C,D,C,1731.135076,.5X
+ICUI,"ICU Medical, Inc.",A,D,C,C,C,5196.365785,1X
+ILMN,Illumina Inc,F,B,C,C,C,50774.337,4X
+INTU,Intuit Inc,F,B,B,C,C,131048.624,4X
+ISRG,Intuitive Surgical Inc,F,C,C,B,C,103561.2142,4X
+ITRI,Itron Inc.,F,B,C,C,C,2328.733115,.5X
+JBL,Jabil Inc,F,B,B,D,C,8985.669708,2X
+JCI,Johnson Controls International plc,F,C,B,C,B,46729.03265,4X
+JEF,Jefferies Financial Group Inc,F,C,C,D,C,8034.760763,2X
+JHG,Janus Henderson Group plc,F,C,B,B,B,6142.553608,2X
+JMIA,Jumia Technologies Ag,F,D,C,B,C,860.7132583,.25X
+JOUT,Johnson Outdoors Inc,F,D,C,B,C,737.9471917,.25X
+MSTR,Microstrategy Inc.,F,D,C,D,D,3535.862486,1X
+MTN,Vail Resorts Inc.,F,B,B,C,C,11006.17889,2X
+MTZ,Mastec Inc.,D,C,C,C,C,6581.326393,2X
+MXL,MaxLinear Inc,F,C,C,D,C,4603.466609,1X
+NAT,Nordic American Tankers Ltd,A,D,D,B,C,304.2527366,.25X
+NET,Cloudflare Inc,F,D,C,C,C,28935.74148,4X
+NGVC,Natural Grocers by Vitamin Cottage Inc,A,D,C,D,C,401.3837566,.25X
+NGVT,Ingevity Corp,F,C,C,C,C,2549.071347,.5X
+NJR,New Jersey Resources Corporation,A,B,B,C,C,4191.017337,1X
+NSIT,Insight Enterprises Inc.,A,C,C,C,C,3782.554889,1X
+NTES,NetEase Inc,F,,,,,60509.03754,4X
+NWSA,News Corp,D,C,C,C,C,8661.434721,2X
+ONEM,1life Healthcare Inc,F,D,C,C,C,2066.419203,.5X
+ORCL,Oracle Corp.,D,B,C,D,C,223287.4756,4X
+ORN,Orion Group Holdings Inc,F,D,D,B,C,68.62365876,.25X
+PATK,"Patrick Industries, Inc.",F,C,C,D,D,1644.413116,.5X
+PBF,PBF Energy Inc,A,C,C,D,C,2487.931017,.5X
+PFSW,PFSWEB Inc,D,D,C,D,D,252.3574232,.25X
+PII,Polaris Inc,A,B,B,B,B,6680.652738,2X
+PINS,Pinterest Inc,F,D,D,C,C,14612.26014,2X
+PRU,Prudential Financial Inc.,A,B,B,C,C,44478.78,4X
+PYPL,PayPal Holdings Inc,F,B,C,C,C,139558.5685,4X
+QADA,"QAD, Inc.",A,D,C,C,C,1547.772324,.5X
+RGA,"Reinsurance Group Of America, Inc.",D,C,C,C,C,7028.843378,2X
+RGEN,Repligen Corp.,F,C,B,D,C,10524.28138,2X
+RGP,Resources Connection Inc,D,D,C,C,C,557.2053646,.25X
+RHP,Ryman Hospitality Properties Inc,D,C,C,C,C,5035.734671,1X
+RMD,Resmed Inc.,A,B,B,C,B,38091.2597,4X
+RVLV,Revolve Group Inc,D,C,C,A,B,2009.799619,.5X
+SEAS,SeaWorld Entertainment Inc,A,C,C,C,C,5403.523654,1X
+SGMO,Sangamo Therapeutics Inc,F,D,C,B,C,896.7295738,.25X
+SHOP,Shopify Inc,F,C,C,B,C,88295.10066,4X
+SHW,Sherwin-Williams Co.,F,B,C,B,B,67316.3408,4X
+SITM,SiTime Corp,F,C,C,C,C,4552.097151,1X
+SIX,Six Flags Entertainment Corp,A,D,C,C,C,3666.769371,1X
+SPCE,Virgin Galactic Holdings Inc,F,D,C,A,B,2425.969599,.5X
+SPNS,Sapiens International Corp NV,F,D,D,D,D,1449.55882,.5X
+SPSC,SPS Commerce Inc.,D,D,C,C,C,4805.381643,1X
+SPTN,SpartanNash Co,A,C,C,C,C,1248.854153,.5X
+SQM,Sociedad Quimica Y Minera de Chile S.A.,A,,,,,11022.76301,2X
+SSP,E.W. Scripps Co.,A,D,C,F,D,1524.252512,.5X
+SSTK,Shutterstock Inc,F,D,C,C,C,3514.195516,1X
+STBA,"S & T Bancorp, Inc.",D,D,C,B,C,1212.59712,.5X
+STM,ST Microelectronics,F,B,B,C,B,39172.28281,4X
+SU,"Suncor Energy, Inc.",A,B,B,C,B,46197.77005,4X
+SXI,Standex International Corp.,D,C,B,C,C,1303.147466,.5X
+TAL,TAL Education Group,F,D,C,C,C,1274.27802,.5X
+TALO,Talos Energy Inc,A,D,C,C,C,1238.730895,.5X
+TBNK,Territorial Bancorp Inc,D,D,D,B,C,230.1503846,.25X
+TDG,Transdigm Group Incorporated,A,C,C,D,C,36449.15803,4X
+TEN,"Tenneco, Inc.",A,B,B,C,B,1484.457069,.5X
+TG,Tredegar Corp.,A,C,C,B,C,426.88,.25X
+TLND,Talend SA,D,C,C,D,D,2111.414295,.5X
+TPR,Tapestry Inc,D,B,B,C,B,10690.28729,2X
+TREE,LendingTree Inc.,D,D,D,C,C,1595.141552,.5X
+TRGP,Targa Resources Corp,A,C,C,C,C,15836.66428,2X
+TSM,Taiwan Semiconductor Manufacturing,F,,,,,553458.0405,4X
+TTMI,TTM Technologies Inc,D,C,C,C,C,1532.827665,.5X
+TTOO,T2 Biosystems Inc,F,D,C,F,D,74.63058435,.25X
+VCYT,Veracyte Inc,F,D,C,C,D,2004.456435,.5X
+VIVO,Meridian Bioscience Inc.,A,D,C,D,D,1120.260667,.5X
+VMC,Vulcan Materials Co,F,B,C,C,C,24342.48201,4X
+WBA,Walgreens Boots Alliance Inc,F,B,C,D,C,40995.40127,4X
+WDAY,Workday Inc,F,B,B,C,C,46040.4,4X
+WLDN,Willdan Group Inc,F,,,,,391.7549261,.25X
+XEC,Cimarex Energy Co.,A,C,C,B,C,8966.447518,2X
+YEXT,Yext Inc,F,D,C,C,C,870.6252808,.25X
+LCII,LCI Industries,F,C,C,D,C,3162.518558,1X
+LE,"Lands` End, Inc.",A,B,C,C,C,681.0582076,.25X
+LMND,Lemonade Inc,F,D,C,B,C,1662.650708,.5X
+LMNR,Limoneira Co,F,C,D,C,C,238.7529,.25X
+LMT,Lockheed Martin Corp.,A,B,C,C,C,118016.2701,4X
+LOCO,El Pollo Loco Holdings Inc,F,D,C,C,C,426.463538,.25X
+LSCC,Lattice Semiconductor Corp.,F,C,C,C,C,8462.667036,2X
+MACK,Merrimack Pharmaceuticals Inc,A,D,C,B,C,90.06662,.25X
+MASI,Masimo Corp,F,C,C,C,C,8681.37215,2X
+MGLN,Magellan Health Inc,D,D,C,C,C,2494.905226,.5X
+MKSI,"MKS Instruments, Inc.",F,C,C,B,C,8608.906854,2X
+MOG.A,"Moog, Inc.",A,C,C,D,C,2503.409914,.5X
+MOH,Molina Healthcare Inc,A,B,B,D,C,20051.64,2X
+MRK,Merck & Co Inc,A,B,B,D,C,200257.0522,4X
+MRTX,Mirati Therapeutics Inc,F,D,C,C,C,4525.80533,1X
+MRVL,Marvell Technology Group Ltd,D,C,C,C,C,37755.26457,4X
+MSGS,Madison Square Garden Sports Corp,D,D,D,B,C,3328.242241,1X
+MTCH,Match Group Inc.,F,D,C,C,C,28425.69356,4X
+NAVI,Navient Corp,F,C,D,C,C,2822.128234,1X
+NEO,Neogenomics Inc.,F,C,C,B,C,2198.412021,.5X
+NEWR,New Relic Inc,F,D,C,C,C,4255.312177,1X
+NG,Novagold Resources Inc.,A,C,C,C,C,2600.352016,1X
+NGS,"Natural Gas Services Group, Inc.",A,C,C,B,C,148.6620523,.25X
+NMM,Navios Maritime Partners L.P.,A,,,,,878.79902,.25X
+NOK,Nokia Corp,F,,,,,30250.20798,4X
+NTCT,Netscout Systems Inc,D,C,C,C,C,2335.177545,.5X
+NTUS,Natus Medical Inc,A,D,C,C,C,872.3803342,.25X
+NVRO,Nevro Corp,F,D,C,C,C,2461.870043,.5X
+OKTA,Okta Inc,F,C,C,C,C,25758.89096,4X
+PEG,Public Service Enterprise Group Inc.,A,B,C,C,C,33772.54841,4X
+PFPT,Proofpoint Inc,B,D,C,D,C,10136.7302,2X
+PIPR,Piper Sandler Co`s,F,D,D,C,C,2382.901898,.5X
+PLXS,Plexus Corp.,F,C,C,C,C,2449.302831,.5X
+PM,Philip Morris International Inc,D,B,B,C,B,146346.9991,4X
+PSX,Phillips 66,A,C,B,C,C,34496.04577,4X
+PTC,PTC Inc,D,D,C,D,D,13078.67826,2X
+QRVO,Qorvo Inc,F,C,B,C,C,14545.09151,2X
+QTWO,Q2 Holdings Inc,F,D,C,D,D,3555.534743,1X
+QUOT,Quotient Technology Inc,F,C,C,C,C,632.4394406,.25X
+RAMP,LiveRamp Holdings Inc,F,D,C,C,C,2653.719729,1X
+RBA,Ritchie Bros Auctioneers Inc,D,C,C,C,C,6641.050508,2X
+RMBS,Rambus Inc.,A,C,C,B,C,3400.862523,1X
+RNET,RigNet Inc,A,D,C,C,D,201.7536288,.25X
+ROL,"Rollins, Inc.",D,C,C,B,C,16829.11172,2X
+RUN,Sunrun Inc,F,B,C,D,C,6357.148963,2X
+SAH,"Sonic Automotive, Inc.",D,D,C,C,C,1439.798791,.5X
+SAIC,Science Applications International Corp.,A,C,C,D,C,5117.05774,1X
+SEDG,Solaredge Technologies Inc,A,B,B,C,B,16334.98395,2X
+SITE,SiteOne Landscape Supply Inc,F,C,B,C,C,8181.797529,2X
+SJM,J.M. Smucker Co.,D,C,C,C,C,13877.47578,2X
+SNDR,Schneider National Inc,D,C,C,B,C,2519.855521,.5X
+SNEX,StoneX Group Inc,A,D,D,C,C,1499.12632,.5X
+SNOW,Snowflake Inc,F,,,,,67055.565,4X
+SP,SP Plus Corp,A,C,C,C,C,719.5519756,.25X
+SPR,Spirit Aerosystems Holdings Inc,A,B,C,D,C,4948.871902,1X
+SREV,ServiceSource International Inc,A,D,C,C,C,126.5406958,.25X
+SSL,Sandstorm Gold Ltd,B,C,C,B,C,6240.296294,2X
+SWK,Stanley Black & Decker Inc,F,B,C,C,C,24639.86498,4X
+TA,TravelCenters of America Inc,F,C,C,C,C,655.2469959,.25X
+TBPH,Theravance Biopharma Inc,D,D,C,F,D,770.8851385,.25X
+TDY,Teledyne Technologies Inc,A,C,C,C,C,20384.81264,4X
+TEL,TE Connectivity Ltd,F,B,B,B,B,43899.10751,4X
+TILE,Interface Inc.,F,B,C,C,C,819.0919762,.25X
+TMHC,Taylor Morrison Home Corp.,D,B,B,D,C,4095.700352,1X
+TMO,Thermo Fisher Scientific Inc.,F,B,B,C,C,231759.1392,4X
+TPIC,TPI Composites Inc,A,B,C,C,C,571.758949,.25X
+TROX,Tronox Holdings plc,F,B,C,D,C,3142.0107,1X
+TRV,Travelers Companies Inc.,A,B,C,B,B,44986.0648,4X
+TTWO,"Take-Two Interactive Software, Inc.",F,D,C,B,C,17637.37976,2X
+UBER,Uber Technologies Inc,F,D,D,D,D,62861.81135,4X
+UIS,Unisys Corp.,A,C,C,D,D,1530.240833,.5X
+UNM,Unum Group,A,C,C,C,C,6023.480571,2X
+VIRT,Virtu Financial Inc,A,D,C,C,C,4208.31237,1X
+VRM,Vroom Inc.,F,D,C,C,C,393.7380394,.25X
+VVV,Valvoline Inc,F,B,B,D,C,5630.69512,1X
+WAB,Westinghouse Air Brake Technologies Corp,A,B,B,C,C,18174.0171,2X
+WMT,Walmart Inc,A,C,C,B,C,405559.1224,4X
+YUMC,Yum China Holdings Inc,F,C,B,C,B,18708.31674,2X
+NGD,New Gold Inc,A,B,C,C,B,1218.632,.5X
+NM,"Navios Maritime Holdings, Inc.",A,,,,,66.68723216,.25X
+NRG,NRG Energy Inc.,F,C,C,D,C,9279.491559,2X
+NVEC,NVE Corp,F,C,C,B,B,271.3941,.25X
+NVEE,NV5 Global Inc,D,,,,,2066.366428,.5X
+NVMI,Nova Ltd,F,D,C,B,C,3260.702091,1X
+NVTA,Invitae Corp,F,D,D,D,D,1821.306401,.5X
+NXGN,NextGen Healthcare Inc,A,D,C,C,C,1337.21638,.5X
+OHI,"Omega Healthcare Investors, Inc.",D,C,C,C,C,6922.608541,2X
+OMC,"Omnicom Group, Inc.",A,C,C,C,C,18057.41725,2X
+OSTK,Overstock.com Inc,F,D,C,A,B,2250.451147,.5X
+OTTR,Otter Tail Corporation,F,B,C,C,C,2538.053307,.5X
+PAYC,Paycom Software Inc,F,D,C,C,C,21575.08933,4X
+PDCO,Patterson Companies Inc.,A,C,C,B,C,3036.4464,1X
+PDD,Pinduoduo Inc,F,D,D,C,C,53390.10292,4X
+PGTI,PGT Innovations Inc,D,C,C,D,D,1293.040678,.5X
+PLNT,Planet Fitness Inc,D,C,C,C,C,7193.860688,2X
+PNM,PNM Resources Inc,A,B,C,C,C,3959.562738,1X
+POST,Post Holdings Inc,F,B,B,B,B,4346.746691,1X
+PS,Pluralsight Inc,B,D,C,D,D,2761.865699,1X
+PUMP,ProPetro Holding Corp,A,D,C,B,C,1371.292415,.5X
+PWR,"Quanta Services, Inc.",A,C,C,B,C,17611.12078,2X
+QS,QuantumScape Corp,F,,,,,5207.041181,1X
+QSR,Restaurant Brands International Inc,D,B,C,C,C,18399.845,2X
+RH,RH,F,D,C,B,C,7875.837613,2X
+RNG,RingCentral Inc.,F,D,C,D,D,9975.696004,2X
+RS,Reliance Steel & Aluminum Co.,A,C,B,C,C,12157.03203,2X
+RVNC,Revance Therapeutics Inc,A,D,C,D,D,1259.893254,.5X
+SAND,Sandstorm Gold Ltd,A,B,B,B,B,1551.329311,.5X
+SB,"Safe Bulkers, Inc",A,D,D,D,D,537.697476,.25X
+SCOR,Comscore Inc.,F,D,C,D,D,228.4362223,.25X
+SFE,"Safeguard Scientifics, Inc.",F,D,D,B,C,101.3313556,.25X
+SJI,South Jersey Industries Inc.,A,B,B,D,C,3824.325837,1X
+SM,SM Energy Co,A,B,C,C,C,4696.096194,1X
+SMAR,Smartsheet Inc,F,C,C,C,C,6455.808238,2X
+SONO,Sonos Inc,F,C,C,B,B,3281.372486,1X
+SPH,Suburban Propane Partners LP,A,D,C,C,C,946.1967173,.5X
+SPKE,Spark Energy Inc,C,,,,,166.3122191,.25X
+SPOK,Spok Holdings Inc,F,D,C,B,C,179.0304,.25X
+SPXC,SPX Corp.,F,B,B,C,C,2322.51265,.5X
+SRI,Stoneridge Inc.,D,C,C,C,C,505.2420486,.25X
+STFC,State Auto Financial Corp.,A,C,C,B,C,2300.271911,.5X
+TAP,Molson Coors Beverage Company,A,B,B,C,C,10622.30737,2X
+TDS,"Telephone And Data Systems, Inc.",D,D,C,D,D,1996.268644,.5X
+TFX,Teleflex Incorporated,A,C,B,D,C,16377.12222,2X
+TGP,Teekay LNG Partners LP,A,C,C,C,C,1476.431953,.5X
+TGT,Target Corp,D,C,C,B,C,110321.2279,4X
+THO,"Thor Industries, Inc.",F,C,C,C,C,4820.738604,1X
+TISI,"Team, Inc.",A,C,B,C,C,43.99129186,.25X
+TNAV,Telenav Inc,D,D,C,B,C,227.6341641,.25X
+TPC,Tutor Perini Corp,F,D,C,D,D,530.1292492,.25X
+TRI,Thomson-Reuters Corp,F,B,B,B,B,53799.84131,4X
+TRUP,Trupanion Inc,F,D,C,C,C,3638.447795,1X
+TSE,Trinseo S.A.,B,B,B,D,C,2196.101952,.5X
+TTD,Trade Desk Inc,F,D,D,C,C,29871.75123,4X
+TTSH,Tile Shop Hldgs Inc,D,D,C,C,C,343.9013186,.25X
+TUP,Tupperware Brands Corporation,A,B,C,C,C,949.9362544,.5X
+TWOU,2U Inc,F,C,C,C,C,918.5345068,.25X
+TX,Ternium S.A.,D,B,B,C,B,8374.485543,2X
+TXMD,TherapeuticsMD Inc,A,D,C,D,D,173.8858735,.25X
+UNF,Unifirst Corp.,F,C,C,B,B,2783.48718,1X
+UNVR,Univar Solutions Inc,A,B,B,B,B,5556.21934,1X
+USM,United States Cellular Corporation,D,C,C,D,C,1612.479314,.5X
+VC,Visteon Corp.,D,B,C,C,C,3025.665111,1X
+VRA,Vera Bradley Inc,D,C,C,D,C,281.3563991,.25X
+VRSN,Verisign Inc.,F,C,B,C,C,24696.28175,4X
+WCN,Waste Connections Inc,A,B,C,C,C,35977.52323,4X
+WDFC,WD-40 Co.,F,C,C,B,C,2590.994574,1X
+WEN,Wendy`s Co,D,D,C,C,C,4959.254068,1X
+WFC,Wells Fargo & Co.,A,B,C,C,C,211151.6286,4X
+WIFI,Boingo Wireless Inc,B,D,C,D,D,625.6116471,.25X
+WOR,"Worthington Industries, Inc.",A,B,B,B,B,3067.586307,1X
+WWW,"Wolverine World Wide, Inc.",F,C,C,C,C,2047.962024,.5X
+X,United States Steel Corp.,A,C,C,C,C,8903.438557,2X
+XONE,ExOne Co,A,D,D,B,C,608.1105465,.25X
+YUM,Yum Brands Inc.,F,C,B,C,C,36065.92361,4X
+ZAGG,Zagg Inc,B,C,C,C,C,157.3023531,.25X
+ZVO,Zovio Inc,F,D,D,B,C,30.4135052,.25X
+KLIC,"Kulicke & Soffa Industries, Inc.",A,C,B,B,B,3800.528657,1X
+KMT,Kennametal Inc.,F,C,B,C,C,2557.2115,.5X
+LASR,nLIGHT Inc,F,C,C,C,C,802.6214969,.25X
+LCI,"Lannett Co., Inc.",F,D,C,C,C,36.5011433,.25X
+LHCG,LHC Group Inc,A,D,C,B,B,4774.816546,1X
+LII,Lennox International Inc,F,C,C,B,B,10282.5229,2X
+LNC,Lincoln National Corp.,D,C,C,C,C,12412.33509,2X
+LPLA,LPL Financial Holdings Inc,A,B,C,B,B,14525.24393,2X
+LPX,Louisiana-Pacific Corp.,D,B,C,B,C,6922.923221,2X
+LQDT,Liquidity Services Inc,F,D,C,B,B,649.2693738,.25X
+LSTR,"Landstar System, Inc.",F,D,C,B,C,6196.851858,2X
+MDB,MongoDB Inc,F,D,C,C,C,26345.50201,4X
+MDLZ,Mondelez International Inc.,D,C,C,C,C,85979.75092,4X
+MDRX,Allscripts Healthcare Solutions Inc,A,D,C,C,C,2698.98464,1X
+MLAB,"Mesa Laboratories, Inc.",F,C,C,D,C,1390.819993,.5X
+MO,Altria Group Inc.,A,B,B,C,C,95301.94572,4X
+MOD,Modine Manufacturing Co.,D,C,C,C,C,484.4082859,.25X
+MPAA,Motorcar Parts of America Inc.,A,C,C,C,C,335.5394855,.25X
+MRO,Marathon Oil Corporation,A,B,B,C,B,18196.2453,2X
+MS,Morgan Stanley,D,C,C,D,C,173004.8807,4X
+MTRN,Materion Corp,D,C,C,C,C,1731.681746,.5X
+MUSA,Murphy USA Inc,D,D,C,C,C,5037.456746,1X
+NBR,Nabors Industries Ltd,A,C,C,C,C,1199.800304,.5X
+NETI,Eneti Inc,F,C,C,B,C,119.4301062,.25X
+NGL,NGL Energy Partners LP,A,,,,,295.4741809,.25X
+NOMD,Nomad Foods Limited,F,C,C,C,C,3694.991841,1X
+NUE,Nucor Corp.,A,C,C,C,C,39989.44775,4X
+NVR,NVR Inc.,F,D,C,B,C,17855.61253,2X
+NVS,Novartis AG,D,,,,,211283.3916,4X
+NVST,Envista Holdings Corp,A,C,C,D,C,8054.821965,2X
+NYT,New York Times Co.,D,D,C,B,C,7520.806509,2X
+OCFC,OceanFirst Financial Corp.,D,D,C,B,C,1268.186197,.5X
+OGE,Oge Energy Corp.,A,C,C,C,C,7688.697206,2X
+OKE,Oneok Inc.,A,B,C,C,C,29859.28164,4X
+OPTN,OptiNose Inc,A,D,C,D,D,125.8092683,.25X
+OXFD,Oxford Immunotec Global PLC,C,D,C,C,C,570.90438,.25X
+PAA,Plains All American Pipeline LP,A,C,B,C,C,7546.74898,2X
+PAAS,Pan American Silver Corp,A,B,B,B,B,5818.983983,1X
+PBI,"Pitney Bowes, Inc.",F,B,B,C,C,941.147283,.5X
+PCAR,Paccar Inc.,A,C,C,C,C,30783.86467,4X
+PCG,PG&E Corp.,D,C,B,F,C,22989.4619,4X
+PERS,SandRidge Permian Trust,C,,,,,2.26275,.25X
+PINC,Premier Inc,F,C,C,D,C,4461.833304,1X
+PNTG,Pennant Group Inc,F,D,C,D,D,491.2282639,.25X
+POOL,Pool Corporation,F,C,C,B,C,19545.5436,2X
+POR,Portland General Electric Co,A,C,C,C,C,4809.119424,1X
+PRLB,Proto Labs Inc,A,C,C,C,C,1505.482446,.5X
+PSXP,Phillips 66 Partners LP,A,D,D,D,D,9592.569533,2X
+PZZA,"Papa John`s International, Inc.",F,C,C,B,C,3777.405455,1X
+QCOM,"Qualcomm, Inc.",F,B,B,C,C,173700.72,4X
+R,"Ryder System, Inc.",A,B,C,C,C,4530.963452,1X
+RAD,Rite Aid Corp.,F,C,C,D,C,520.9035964,.25X
+RAIL,FreightCar America Inc,A,D,C,C,C,64.62942942,.25X
+RARE,Ultragenyx Pharmaceutical Inc.,F,D,C,C,C,4733.600267,1X
+RAVN,"Raven Industries, Inc.",B,C,C,C,C,2086.096357,.5X
+RBC,Regal Beloit Corp,B,C,C,C,C,6145.253342,2X
+REAL,Therealreal Inc,F,C,C,C,C,756.3479217,.25X
+RP,RealPage Inc.,B,D,C,D,D,9057.560187,2X
+RSG,"Republic Services, Inc.",D,B,C,C,C,41861.79465,4X
+RYAM,Rayonier Advanced Materials Inc,A,B,C,D,C,428.9523857,.25X
+SBAC,SBA Communications Corp,F,C,C,C,C,36221.65783,4X
+SBUX,Starbucks Corp.,F,C,C,C,C,105647.36,4X
+SCHN,"Schnitzer Steel Industries, Inc.",F,C,C,C,C,1293.366944,.5X
+SIVB,SVB Financial Group,F,D,C,B,C,33464.00922,4X
+SNCR,Synchronoss Technologies Inc,F,D,C,D,D,161.2477453,.25X
+SPB,Spectrum Brands Holdings Inc.,F,C,D,D,D,3951.52707,1X
+ST,Sensata Technologies Holding Plc,F,B,C,D,C,8465.100135,2X
+STLA,Stellantis N.V,F,B,B,D,C,51060.93763,4X
+STMP,Stamps.com Inc.,A,C,C,B,B,6122.721645,2X
+STT,State Street Corp.,D,B,C,C,C,32515.19346,4X
+STZ,Constellation Brands Inc,F,B,C,C,C,37112.17433,4X
+SWBI,Smith & Wesson Brands Inc,D,C,C,B,C,808.2670521,.25X
+SWI,SolarWinds Corp,F,D,C,D,D,1918.411748,.5X
+TBI,TrueBlue Inc,A,C,C,B,C,1031.020827,.5X
+TECH,Bio-Techne Corp,F,C,C,C,C,17484.59227,2X
+TMX,Terminix Global Holdings Inc,A,C,C,B,C,5655.803499,1X
+TNET,TriNet Group Inc,D,B,B,C,C,6113.531488,2X
+TRMB,Trimble Inc,F,C,C,C,C,18068.82423,2X
+TRS,Trimas Corporation,F,C,B,C,C,1421.847134,.5X
+TRVN,Trevena Inc,D,D,D,C,C,88.83477252,.25X
+TWIN,Twin Disc Incorporated,A,D,D,C,C,229.403412,.25X
+UVV,Universal Corp.,A,B,B,D,C,1383.78006,.5X
+VAR,"Varian Medical Systems, Inc.",D,B,C,C,C,16261.89862,2X
+VEEV,Veeva Systems Inc,F,D,C,C,C,27339.52595,4X
+VIPS,Vipshop Holdings Ltd,A,C,C,B,B,5307.871332,1X
+VMI,"Valmont Industries, Inc.",D,C,C,C,C,5141.240604,1X
+VNDA,Vanda Pharmaceuticals Inc,F,D,D,C,C,669.327137,.25X
+VRNS,Varonis Systems Inc,F,D,C,C,C,4704.33458,1X
+VSAT,"Viasat, Inc.",A,C,C,D,D,3586.367519,1X
+VSTM,Verastem Inc,F,D,C,C,C,240.4084978,.25X
+WES,Western Midstream Partners LP,A,B,B,B,B,9938.620831,2X
+WING,Wingstop Inc,F,D,C,B,C,3600.690596,1X
+WNC,Wabash National Corp.,F,B,B,C,C,819.1521374,.25X
+WYNN,Wynn Resorts Ltd.,D,B,C,C,C,9213.245568,2X
+YELL,Yellow Corporation,F,D,C,D,D,418.9021257,.25X
+ZEUS,Olympic Steel Inc.,A,C,C,D,C,385.712352,.25X
+ZM,Zoom Video Communications Inc,F,,,,,27993.7743,4X
+MTSI,MACOM Technology Solutions Holdings Inc,F,C,C,C,C,4206.673483,1X
+MX,Methanex Corp.,A,B,C,D,C,1955.136185,.5X
+NEOG,Neogen Corp.,F,D,C,B,C,3799.87808,1X
+NEU,NewMarket Corp.,D,C,C,B,C,3581.997164,1X
+NFLX,NetFlix Inc,F,D,C,D,D,168451.995,4X
+NKE,"Nike, Inc.",F,C,C,B,C,167699.3205,4X
+NLOK,NortonLifeLock Inc,A,B,B,D,C,15956.03092,2X
+NLSN,Nielsen Holdings plc,A,C,B,C,C,8769.075642,2X
+NOG,Northern Oil and Gas Inc.,A,C,B,C,C,1803.189643,.5X
+NPTN,NeoPhotonics Corporation,D,D,C,B,C,789.043626,.25X
+NRP,Natural Resource Partners LP,A,B,C,B,B,474.6310133,.25X
+NWE,Northwestern Corp.,A,B,C,C,C,2956.520756,1X
+OII,"Oceaneering International, Inc.",A,C,C,C,C,1556.13964,.5X
+OMER,Omeros Corporation,A,D,D,F,D,409.3464748,.25X
+PCRX,Pacira BioSciences Inc,A,D,C,F,D,3241.643433,1X
+PDFS,PDF Solutions Inc.,F,D,C,C,C,1051.013994,.5X
+PEGA,Pegasystems Inc.,F,C,C,D,C,6481.427821,2X
+PEP,PepsiCo Inc,D,C,C,C,C,224994.4937,4X
+PFSI,PennyMac Financial Services Inc.,F,C,C,F,D,3435.411358,1X
+PING,Ping Identity Holding Corp,D,C,C,C,C,1847.515613,.5X
+PLOW,Douglas Dynamics Inc,D,D,C,B,C,826.854617,.25X
+POWI,Power Integrations Inc.,A,C,C,B,B,5848.791397,1X
+PRAH,PRA Health Sciences Inc,C,C,C,C,C,10704.84803,2X
+PSMT,Pricesmart Inc.,A,D,C,B,C,2397.400756,.5X
+QNST,QuinStreet Inc,F,D,C,C,C,672.2323013,.25X
+RCII,Rent-a-Center Inc.,F,D,C,C,C,1837.665369,.5X
+RETA,Reata Pharmaceuticals Inc,A,D,D,C,C,1227.73804,.5X
+RHI,Robert Half International Inc.,A,C,B,B,B,13475.59443,2X
+RM,Regional Management Corp,F,D,C,C,C,465.42557,.25X
+RMTI,Rockwell Medical Inc,F,D,C,D,D,34.72010819,.25X
+RNST,Renasant Corp.,D,D,C,C,C,2015.14938,.5X
+RPM,"RPM International, Inc.",F,B,C,C,C,10736.56899,2X
+SAFT,"Safety Insurance Group, Inc.",A,D,C,B,C,1289.385774,.5X
+SAM,"Boston Beer Co., Inc.",F,C,C,C,C,4098.048148,1X
+SAVE,Spirit Airlines Inc,D,C,C,D,C,2351.236127,.5X
+SCS,"Steelcase, Inc.",A,B,B,C,C,1091.92058,.5X
+SEAC,Seachange International Inc.,F,D,D,C,C,67.67554914,.25X
+SHYF,Shyft Group Inc (The),F,B,C,C,C,1455.723913,.5X
+SIG,Signet Jewelers Ltd,D,C,C,C,C,4252.482082,1X
+SKYW,Skywest Inc.,F,D,C,C,C,1414.160733,.5X
+SLAB,Silicon Laboratories Inc,F,B,C,D,C,6954.100915,2X
+SMCI,Super Micro Computer Inc,D,C,C,C,C,2169.825087,.5X
+SPLK,Splunk Inc,A,D,B,C,C,20679.47811,4X
+SR,Spire Inc.,A,C,C,D,C,3429.241362,1X
+SRPT,Sarepta Therapeutics Inc,F,D,C,C,C,6479.839028,2X
+STRA,Strategic Education Inc,A,D,C,C,C,1562.901624,.5X
+SWKS,"Skyworks Solutions, Inc.",F,B,B,B,B,22324.29177,4X
+TACO,Del Taco Restaurants Inc,A,D,C,C,C,455.2691492,.25X
+TCOM,Trip.com Group Ltd,D,C,C,C,C,14795.36332,2X
+TGA,Transglobe Energy Corp.,A,D,C,C,C,250.2699,.25X
+TGH,Textainer Group Holdings Limited,A,D,C,D,D,1932.236788,.5X
+THRM,Gentherm Inc,F,B,B,B,B,2498.862428,.5X
+TME,Tencent Music Entertainment Group,F,D,D,C,C,4225.111537,1X
+TNC,Tennant Co.,A,B,B,C,B,1591.558337,.5X
+TRIB,Trinity Biotech Plc,F,D,C,C,C,22.36482221,.25X
+TTEK,"Tetra Tech, Inc.",D,B,C,B,B,9070.981828,2X
+TXT,Textron Inc.,D,B,B,C,C,16843.96792,2X
+UAN,CVR Partners LP,A,,,,,1318.610435,.5X
+UIHC,United Insurance Holdings Corp,F,D,D,C,C,155.1124802,.25X
+UPS,"United Parcel Service, Inc.",A,B,C,B,B,160063.4887,4X
+USNA,Usana Health Sciences Inc,F,D,B,B,C,1600.98192,.5X
+V,Visa Inc,A,C,B,B,B,369779.4636,4X
+VIAC,ViacomCBS Inc,D,C,C,C,C,17919.96309,2X
+VRTX,"Vertex Pharmaceuticals, Inc.",A,C,B,B,C,64618.42438,4X
+VSTO,Vista Outdoor Inc,F,B,B,C,B,2217.578574,.5X
+WB,Weibo Corp,F,D,C,D,D,3355.214471,1X
+WDC,Western Digital Corp.,F,B,C,D,C,15221.27882,2X
+WIRE,Encore Wire Corp.,D,C,C,C,C,2797.580035,1X
+WM,"Waste Management, Inc.",D,B,B,C,C,65552.47744,4X
+WMB,Williams Cos Inc,A,B,C,C,C,38222.60476,4X
+WU,Western Union Company,A,C,C,C,C,7314.267636,2X
+XXII,22nd Century Group Inc,F,D,C,C,C,382.4283851,.25X
+YETI,YETI Holdings Inc,F,C,C,A,C,5445.12204,1X
+ZUO,Zuora Inc,F,D,C,C,C,1726.725,.5X
+KIRK,Kirkland`s Inc,F,C,C,C,C,157.4082414,.25X
+KLAC,KLA Corp.,F,C,B,B,B,55484.9355,4X
+KMB,Kimberly-Clark Corp.,F,B,B,C,C,40697.69821,4X
+KO,Coca-Cola Co,A,C,C,C,C,259632,4X
+KPTI,Karyopharm Therapeutics Inc,A,D,C,D,D,542.0703196,.25X
+LAMR,Lamar Advertising Co,D,C,C,C,C,9759.917337,2X
+LEN,Lennar Corp.,F,D,D,B,C,25157.19852,4X
+LFUS,"Littelfuse, Inc.",F,C,C,C,C,6358.360316,2X
+LULU,Lululemon Athletica inc.,F,C,C,C,C,39492.81496,4X
+LW,Lamb Weston Holdings Inc,F,C,C,C,C,7972.413327,2X
+LXRX,Lexicon Pharmaceuticals Inc,F,D,C,B,C,316.3990499,.25X
+MATX,Matson Inc,A,B,B,C,B,5231.268163,1X
+MCRI,"Monarch Casino & Resort, Inc.",A,D,C,C,C,1606.998182,.5X
+MNKKQ,Mallinckrodt Plc,D,C,C,D,D,10.16590536,.25X
+MNRO,Monro Inc,F,D,C,C,C,1460.506358,.5X
+MODN,Model N Inc,F,D,C,D,D,917.859677,.25X
+MRCY,Mercury Systems Inc,A,C,C,C,C,3744.699253,1X
+MYGN,"Myriad Genetics, Inc.",D,D,C,C,C,2031.781151,.5X
+NBIX,"Neurocrine Biosciences, Inc.",A,D,C,C,C,8814.421747,2X
+NICE,NICE Ltd,F,C,B,C,C,13909.44074,2X
+NOV,NOV Inc,A,B,C,B,B,7552.310833,2X
+NPO,EnPro Industries Inc,D,C,C,C,C,2226.415885,.5X
+NSTG,Nanostring Technologies Inc,F,C,C,D,D,1547.735556,.5X
+NX,Quanex Building Products Corp,D,C,C,B,C,781.0576604,.25X
+OLLI,Ollies Bargain Outlet Holdings Inc,F,,,,,2792.19897,1X
+ORLY,"O`Reilly Automotive, Inc.",D,D,C,B,C,47575.32088,4X
+OVV,Ovintiv Inc,A,B,B,C,B,12526.83071,2X
+OXM,"Oxford Industries, Inc.",F,C,C,C,C,1468.353402,.5X
+PBYI,Puma Biotechnology Inc,A,D,D,D,D,132.1240572,.25X
+PETQ,PetIQ Inc,A,D,C,F,D,697.2597775,.25X
+PRFT,Perficient Inc.,F,D,C,C,C,3630.674723,1X
+PRGO,Perrigo Company plc,D,C,C,D,C,5115.927521,1X
+PRGS,Progress Software Corp.,D,C,C,D,C,1986.943867,.5X
+PRK,Park National Corp.,D,D,C,C,C,2191.570049,.5X
+PRTA,Prothena Corporation plc,F,D,C,C,C,1764.058103,.5X
+PTON,Peloton Interactive Inc,F,D,C,C,C,7227.505958,2X
+QEP,QEP Resources Inc,D,C,C,C,C,991.1774112,.5X
+RES,"RPC, Inc.",A,C,C,C,C,2118.423782,.5X
+RKT,Rocket Companies Inc,F,B,B,B,B,1509.668034,.5X
+RL,Ralph Lauren Corp,A,C,C,C,C,5903.448426,1X
+ROG,Rogers Corp.,A,B,B,C,C,5117.363469,1X
+SBGI,"Sinclair Broadcast Group, Inc.",A,D,D,C,D,1427.327431,.5X
+SBH,Sally Beauty Holdings Inc,F,C,C,C,C,1888.788448,.5X
+SCSC,"Scansource, Inc.",D,C,C,B,C,891.9712857,.25X
+SEE,Sealed Air Corp.,A,B,C,C,C,10246.67352,2X
+SFIX,Stitch Fix Inc,F,D,D,C,C,902.833851,.25X
+SGMS,Scientific Games Corporation,D,D,C,C,C,5990.337941,2X
+SMG,Scotts Miracle-Gro Company,F,C,C,C,C,7347.351641,2X
+SMTC,Semtech Corp.,F,B,B,C,B,4569.592741,1X
+SNX,TD Synnex Corp,D,C,C,B,C,10947.81345,2X
+SON,Sonoco Products Co.,A,B,B,C,B,5797.235691,1X
+SPGI,S&P Global Inc,F,B,C,B,B,98795.54,4X
+STLD,Steel Dynamics Inc.,A,B,C,C,C,17188.43009,2X
+STNG,Scorpio Tankers Inc,A,C,C,D,C,1122.445793,.5X
+SYK,Stryker Corp.,D,C,B,D,C,100812.9174,4X
+SYNA,Synaptics Inc,F,C,C,D,C,9162.261185,2X
+TEAM,Atlassian Corporation Plc,F,D,C,C,C,40468.71876,4X
+TLYS,Tillys Inc,F,,,,,233.436209,.25X
+TMST,TimkenSteel Corp,A,C,C,B,C,1026.056273,.5X
+TOUR,Tuniu Corp,A,D,C,C,C,115.2131967,.25X
+TPH,Tri Pointe Homes Inc.,F,C,C,C,C,2628.532876,1X
+TPL,Texas Pacific Land Corporation,A,D,D,B,C,10453.81008,2X
+TRN,"Trinity Industries, Inc.",A,B,B,C,C,3407.171911,1X
+TSN,"Tyson Foods, Inc.",D,C,C,C,C,25690.24228,4X
+TVTY,Tivity Health Inc,A,D,C,C,C,1450.051787,.5X
+TW,Tradeweb Markets Inc,F,B,B,C,B,9465.264957,2X
+TXN,Texas Instruments Inc.,D,B,B,B,B,166270.1158,4X
+UGI,UGI Corp.,F,C,C,C,C,7372.756553,2X
+UI,Ubiquiti Inc,D,D,D,C,C,17728.56392,2X
+UNFI,United Natural Foods Inc.,F,C,C,C,C,2341.336849,.5X
+UPLD,Upland Software Inc,D,D,C,F,D,527.9739506,.25X
+URI,"United Rentals, Inc.",A,B,B,B,B,25064.36173,4X
+USPH,"U.S. Physical Therapy, Inc.",A,D,D,C,C,1248.100324,.5X
+VEC,Vectrus Inc,F,C,C,D,C,430.4143611,.25X
+VTVT,vTv Therapeutics Inc,F,,,,,40.42626824,.25X
+VVI,Viad Corp.,F,C,C,C,C,717.2683,.25X
+WDR,"Waddell & Reed Financial, Inc.",A,D,C,B,C,1553.212535,.5X
+WEC,WEC Energy Group Inc,D,B,B,C,C,29865.3414,4X
+WLTW,Willis Towers Watson Public Limited Co,D,C,C,B,C,28851.43726,4X
+WSC,WillScot Mobile Mini Holdings Corp,D,D,C,D,D,8767.787615,2X
+WST,"West Pharmaceutical Services, Inc.",F,C,B,C,C,30678.38759,4X
+WTI,W & T Offshore Inc,A,C,C,C,C,628.9870834,.25X
+XENT,Intersect ENT Inc,A,D,C,D,D,925.3565505,.5X
+XLNX,"Xilinx, Inc.",D,B,B,B,B,48236.4957,4X
+XPEV,XPeng Inc,F,,,,,18724.03084,2X
+XPO,XPO Logistics Inc,D,C,C,C,C,8796.418425,2X
+XYL,Xylem Inc,F,B,B,B,B,15866.95488,2X
+ZG,Zillow Group Inc,F,,,,,3325.759322,1X
+ZTS,Zoetis Inc,F,C,B,C,C,92845.66741,4X
+ZUMZ,Zumiez Inc,F,D,C,B,C,1100.692343,.5X
+LHX,L3Harris Technologies Inc,A,B,B,C,B,49522.5687,4X
+LL,LL Flooring Holdings Inc,D,C,C,B,C,463.5616285,.25X
+LPSN,Liveperson Inc,F,D,C,C,C,1752.50725,.5X
+LUMO,Lumos Pharma Inc,A,D,C,B,C,80.39810142,.25X
+MAXR,Maxar Technologies Inc,A,C,C,C,C,2598.259794,1X
+MDLA,Medallia Inc,A,D,C,D,D,5451.185101,1X
+MDU,MDU Resources Group Inc,F,B,C,C,C,5214.620757,1X
+MESA,Mesa Air Group Inc.,F,D,C,C,C,152.177963,.25X
+MESO,Mesoblast Ltd,D,,,,,614.9638744,.25X
+MMLP,Martin Midstream Partners LP,A,,,,,158.31522,.25X
+MMP,Magellan Midstream Partners L.P.,A,C,B,C,C,10574.67426,2X
+MMS,Maximus Inc.,D,C,C,B,C,4597.474651,1X
+MORN,Morningstar Inc,F,C,C,C,C,12052.7298,2X
+MRVI,Maravai LifeSciences Holdings Inc,D,,,,,5377.703536,1X
+MSA,MSA Safety Inc,F,B,B,B,B,5354.087524,1X
+MTSC,MTS Systems Corp.,B,C,B,D,C,1139.074911,.5X
+MTX,"Minerals Technologies, Inc.",F,B,B,C,B,2227.898703,.5X
+NCR,NCR Corp.,A,C,B,D,C,5303.304,1X
+NI,Nisource Inc. (Holding Co.),A,B,B,C,C,11807.62836,2X
+NLS,Nautilus Inc,F,D,D,B,C,137.332308,.25X
+NMIH,NMI Holdings Inc,D,D,C,B,C,1799.773227,.5X
+NNBR,NN Inc,F,C,C,C,C,127.3793021,.25X
+NOW,ServiceNow Inc,F,C,C,C,C,114874.228,4X
+NTNX,Nutanix Inc,F,D,C,C,C,5548.020161,1X
+NTRS,Northern Trust Corp.,D,C,B,C,C,24009.16249,4X
+NVAX,"Novavax, Inc.",F,D,D,B,C,6130.046862,2X
+ON,ON Semiconductor Corp.,F,B,B,C,C,26662.85983,4X
+ORBC,Orbcomm Inc,D,D,C,C,C,913.9498743,.25X
+PACB,Pacific Biosciences of California Inc,F,D,C,C,C,2133.264327,.5X
+PAG,Penske Automotive Group Inc,D,B,C,C,C,8403.189073,2X
+PCTY,Paylocity Holding Corp,F,D,C,C,C,11668.32645,2X
+PFE,Pfizer Inc.,D,B,C,D,C,305620.5823,4X
+PLUG,Plug Power Inc,D,C,C,D,C,15019.39497,2X
+PNW,Pinnacle West Capital Corp.,A,B,C,C,C,8229.964356,2X
+PRA,Proassurance Corporation,D,D,C,B,C,1352.78481,.5X
+PSN,Parsons Corp,A,B,B,B,B,3850.004417,1X
+RNWK,"Realnetworks, Inc.",F,,,,,27.63997076,.25X
+RPD,Rapid7 Inc,F,,,,,5979.987662,2X
+RTX,Raytheon Technologies Corporation,A,B,C,D,C,145965.7654,4X
+SCCO,Southern Copper Corporation,A,B,C,B,B,57331.70691,4X
+SCU,Sculptor Capital Management Inc,F,D,C,C,C,343.9579158,.25X
+SGRY,Surgery Partners Inc,D,D,C,D,D,4376.313455,1X
+SKX,"Skechers U S A, Inc.",F,D,C,D,D,5337.739633,1X
+SNPS,"Synopsys, Inc.",F,B,C,C,C,48527.90135,4X
+SPWH,Sportsman`s Warehouse Holdings Inc,D,C,C,B,C,504.5310475,.25X
+SQ,Block Inc,F,C,C,D,C,55971.26968,4X
+SRE,Sempra Energy,A,B,B,C,C,49907.71435,4X
+STKL,"Sunopta, Inc.",F,C,B,C,C,566.1665962,.25X
+SUM,Summit Materials Inc,F,C,C,C,C,3797.926399,1X
+SWN,Southwestern Energy Company,A,B,B,C,B,5430.144241,1X
+SXC,SunCoke Energy Inc,A,C,C,C,C,708.2970629,.25X
+SYX,"Systemax, Inc.",A,D,D,C,C,1326.828209,.5X
+T,"AT&T, Inc.",D,B,B,C,C,165790.8,4X
+TER,"Teradyne, Inc.",F,C,B,C,C,20283.45482,4X
+TFC,Truist Financial Corporation,A,C,C,B,C,78167.67759,4X
+TMUS,T-Mobile US Inc,A,B,C,D,D,158716.3563,4X
+TREC,Trecora Resources,A,D,D,B,C,211.4994914,.25X
+TWLO,Twilio Inc,F,D,C,D,C,26652.25535,4X
+UFS,Domtar Corporation,A,C,C,C,C,2794.414029,1X
+UHS,"Universal Health Services, Inc.",A,C,C,C,C,11137.58585,2X
+ULTA,Ulta Beauty Inc,D,D,C,B,C,21266.31055,4X
+UNH,Unitedhealth Group Inc,A,C,C,C,C,477229.3373,4X
+VEON,VEON Ltd,F,C,C,C,C,1141.875238,.5X
+VRSK,Verisk Analytics Inc,F,B,B,C,C,33599.62166,4X
+VTRS,Viatris Inc,F,C,B,D,C,12891.0363,2X
+WEX,WEX Inc,A,D,C,C,C,7763.015268,2X
+WNS,WNS Holdings Limited,D,D,C,B,C,4230.973023,1X
+WPM,Wheaton Precious Metals Corp,A,C,B,B,B,21509.80796,4X
+XEL,"Xcel Energy, Inc.",A,B,B,C,C,37039.05722,4X
+XLRN,Acceleron Pharma Inc,A,D,C,C,C,10885.96813,2X
+XOM,Exxon Mobil Corp.,A,C,C,C,C,333054.3947,4X
+XRAY,DENTSPLY Sirona Inc,F,C,B,D,C,10634.67224,2X
+YY,JOYY Inc,D,C,C,C,C,2698.20724,1X
+ZNGA,Zynga Inc,A,D,C,D,D,9870.691467,2X
+ZS,Zscaler Inc,F,D,C,C,C,30897.89033,4X
+MLCO,Melco Resorts & Entertainment Ltd,F,B,B,D,C,3987.420478,1X
+MNTX,Manitex International Inc,A,,,,,157.263167,.25X
+MOV,"Movado Group, Inc.",F,D,C,B,C,607.2619575,.25X
+MPC,Marathon Petroleum Corp,A,B,C,C,C,49983.99458,4X
+MPWR,Monolithic Power System Inc,D,C,C,B,C,21576.8896,4X
+MPX,Marine Products Corp,D,D,C,A,B,420.8439125,.25X
+MSGN,MSG Networks Inc,A,D,C,D,D,615.8264996,.25X
+MTD,"Mettler-Toledo International, Inc.",F,B,C,C,C,32484.61619,4X
+MTW,"Manitowoc Co., Inc.",F,C,C,D,C,578.2865813,.25X
+MUR,Murphy Oil Corp.,A,B,B,C,C,5976.632681,2X
+MYE,Myers Industries Inc.,D,C,C,C,C,722.030046,.25X
+NATI,National Instruments Corp.,D,C,B,C,C,5393.706602,1X
+NEE,NextEra Energy Inc,F,B,B,C,C,161589.9238,4X
+NKTR,Nektar Therapeutics,F,D,C,C,C,1029.28807,.5X
+NS,Nustar Energy L P,D,D,D,D,D,1698.84861,.5X
+NUVA,Nuvasive Inc,A,D,C,D,D,2804.112,1X
+NWL,Newell Brands Inc,A,B,C,C,C,9524.706,2X
+ODFL,"Old Dominion Freight Line, Inc.",F,C,C,B,B,38020.45025,4X
+OGS,ONE Gas Inc,A,C,C,D,C,4413.814598,1X
+OLN,Olin Corp.,F,C,C,D,C,8433.885085,2X
+OPCH,Option Care Health Inc.,D,D,C,C,C,4782.713519,1X
+PCTI,PCTEL Inc,F,C,C,B,C,86.72494548,.25X
+PENN,"Penn National Gaming, Inc.",F,C,C,C,C,7033.567774,2X
+PGR,Progressive Corp.,A,C,C,B,C,65097.066,4X
+PLTR,Palantir Technologies Inc,F,D,C,B,C,23922.12077,4X
+PLUS,ePlus Inc,D,D,C,B,B,715.0651661,.25X
+POLY,"Plantronics, Inc.",D,B,B,B,B,1201.515732,.5X
+PPL,PPL Corp,F,B,C,C,C,20525.38735,4X
+PRIM,Primoris Services Corp,A,D,C,C,C,1408.832221,.5X
+PTEN,Patterson-UTI Energy Inc,A,C,C,B,C,2790.215197,1X
+PXLW,Pixelworks Inc,F,D,C,C,C,164.6434414,.25X
+QUAD,Quad/Graphics Inc,A,C,C,C,C,252.9738473,.25X
+QURE,uniQure N.V.,F,D,D,D,D,828.2913671,.25X
+RE,Everest Re Group Ltd,A,C,C,B,C,11429.93885,2X
+RGS,Regis Corp.,A,D,C,C,C,76.42128381,.25X
+RIGL,Rigel Pharmaceuticals,A,D,C,D,D,589.4335557,.25X
+ROP,Roper Technologies Inc,D,C,C,D,D,49395.28787,4X
+RRC,Range Resources Corp,A,C,C,C,C,6897.119016,2X
+RUSHA,Rush Enterprises Inc,D,C,C,B,C,2283.231116,.5X
+SAGE,Sage Therapeutics Inc,F,D,C,C,C,2040.158828,.5X
+SAIL,SailPoint Technologies Holdings Inc,D,C,C,D,C,4321.804488,1X
+SCL,Stepan Co.,F,B,B,C,B,2257.819031,.5X
+SFL,SFL Corporation Ltd,A,C,D,D,D,1276.125747,.5X
+SHOO,Steven Madden Ltd.,F,C,C,B,C,3377.824136,1X
+SLGN,Silgan Holdings Inc.,A,C,C,D,D,4967.261004,1X
+SLM,SLM Corp.,D,C,C,B,C,5697.188564,1X
+SNAP,Snap Inc,F,B,B,D,C,47730.17801,4X
+SO,Southern Company,D,B,C,C,C,72031.92013,4X
+SONY,Sony Group Corporation,F,,,,,133823.5578,4X
+SPT,Sprout Social Inc,F,B,B,B,B,3537.960297,1X
+SRCL,Stericycle Inc.,D,B,C,B,B,5188.84517,1X
+SSD,"Simpson Manufacturing Co., Inc.",F,C,C,B,C,5194.079548,1X
+STE,Steris Plc,D,C,C,D,D,23414.42104,4X
+SWAV,ShockWave Medical Inc,A,D,C,B,C,6291.208032,2X
+SYKE,"Sykes Enterprises, Inc.",D,C,C,C,C,2148.945282,.5X
+SYY,Sysco Corp.,A,C,B,B,B,41601.52511,4X
+TDOC,Teladoc Health Inc,F,,,,,10981.7578,2X
+TGI,Triumph Group Inc.,A,C,C,C,C,1620.822782,.5X
+TGTX,TG Therapeutics Inc,F,D,C,D,D,1449.744627,.5X
+THR,Thermon Group Holdings Inc,A,C,C,C,C,585.9655198,.25X
+TITN,Titan Machinery Inc,D,C,C,C,C,703.6246174,.25X
+TK,Teekay Corp,A,C,B,C,C,331.6371461,.25X
+TRU,TransUnion,F,C,B,B,B,19743.65,2X
+TTGT,Techtarget Inc.,F,D,C,D,D,2356.911899,.5X
+TWI,"Titan International, Inc.",A,D,C,C,C,887.1947363,.25X
+UHAL,Amerco,F,C,C,C,C,12232.51462,2X
+UNP,Union Pacific Corp.,A,B,B,B,B,170412.7649,4X
+USAK,"USA Truck, Inc.",A,C,D,D,D,202.4333804,.25X
+USB,U.S. Bancorp.,A,B,C,C,C,83814.12796,4X
+USCR,"U.S. Concrete, Inc.",B,C,C,D,D,1268.26259,.5X
+VCRA,Vocera Communication Inc,A,D,C,C,C,2746.982599,1X
+VIAV,Viavi Solutions Inc,D,C,C,D,C,3783.508061,1X
+VICR,Vicor Corp.,F,C,C,C,C,2496.541311,.5X
+VMW,Vmware Inc.,D,B,B,D,C,48391.2823,4X
+VNE,Veoneer Inc,A,C,B,C,C,4047.925315,1X
+VSH,"Vishay Intertechnology, Inc.",D,C,C,C,C,2680.756786,1X
+VUZI,Vuzix Corporation,F,,,,,443.1771553,.25X
+VWTR,Vidler Water Resources Inc,A,D,D,B,C,279.7635,.25X
+VZ,Verizon Communications Inc,D,B,C,D,C,210317.8932,4X
+W,Wayfair Inc,F,D,C,B,C,9662.431181,2X
+WERN,"Werner Enterprises, Inc.",F,D,C,B,C,2959.791707,1X
+WIFI,Boingo Wireless Inc,A,D,C,D,D,625.6116471,.25X
+WSM,"Williams-Sonoma, Inc.",D,C,C,B,B,12209.33534,2X
+XNCR,Xencor Inc,F,D,C,C,C,1696.642658,.5X
+ZBH,Zimmer Biomet Holdings Inc,D,C,B,D,C,25221.6667,4X
+LXU,"LSB Industries, Inc.",A,C,C,D,C,870.1414908,.25X
+LYV,Live Nation Entertainment Inc,D,C,C,C,C,25016.44612,4X
+MATW,Matthews International Corp.,D,C,C,D,C,1070.40504,.5X
+MCFT,MasterCraft Boat Holdings Inc,D,,,,,511.3293158,.25X
+MCO,Moody`s Corp.,F,B,B,C,C,61675.026,4X
+MDWD,MediWound Ltd,F,,,,,53.40104084,.25X
+MEDP,Medpace Holdings Inc,F,D,C,B,B,5944.214826,1X
+MGM,MGM Resorts International,D,B,C,C,C,20320.8955,4X
+MHLD,Maiden Holdings Ltd,F,D,C,C,C,228.1493834,.25X
+MIME,Mimecast Ltd,D,D,C,D,C,5194.681398,1X
+MKC,"McCormick & Co., Inc.",D,B,C,C,C,23982.50909,4X
+MSI,Motorola Solutions Inc,F,B,B,C,C,39467.87101,4X
+MTDR,Matador Resources Co,A,C,C,C,C,6177.85945,2X
+MTH,Meritage Homes Corp.,F,B,B,C,C,3625.392233,1X
+MYRG,MYR Group Inc,F,C,C,B,C,1699.734952,.5X
+NSP,Insperity Inc,F,B,C,C,C,3822.432324,1X
+NWPX,Northwest Pipe Co.,F,C,C,C,C,270.3548301,.25X
+NXPI,NXP Semiconductors NV,F,B,C,C,C,51017.25361,4X
+OC,Owens Corning,A,B,B,B,B,10124.26592,2X
+OIS,"Oil States International, Inc.",A,C,C,B,C,399.5437961,.25X
+OLED,Universal Display Corp.,A,B,C,B,B,7825.204118,2X
+ONVO,Organovo Holdings Inc,A,D,D,C,C,25.773355,.25X
+OOMA,Ooma Inc,F,,,,,347.8,.25X
+OPK,Opko Health Inc,F,D,D,D,D,2547.548195,.5X
+OTEX,Open Text Corp,F,B,B,D,C,11796.85755,2X
+PANW,Palo Alto Networks Inc,A,D,C,C,C,56205.27532,4X
+PD,Pagerduty Inc,A,C,C,C,C,2967.238478,1X
+PEN,Penumbra Inc,F,C,C,C,C,7885.667008,2X
+PH,Parker-Hannifin Corp.,F,B,C,C,C,37489.76629,4X
+PKI,"Perkinelmer, Inc.",F,B,C,D,C,20448.49964,4X
+PKOH,Park-Ohio Holdings Corp.,F,C,C,D,C,198.0251832,.25X
+PNC,PNC Financial Services Group,D,B,B,C,B,82010.94417,4X
+PRSP,Perspecta Inc,A,D,C,C,C,4725.820411,1X
+QDEL,Quidel Corp.,F,D,C,C,C,4771.114181,1X
+REGN,"Regeneron Pharmaceuticals, Inc.",A,B,B,D,C,72096.69019,4X
+RGLD,"Royal Gold, Inc.",A,C,B,B,B,8998.586991,2X
+RJF,"Raymond James Financial, Inc.",A,D,C,C,C,21768.27389,4X
+ROCK,Gibraltar Industries Inc.,F,C,C,C,C,1607.666108,.5X
+RPAY,Repay Holdings Corporation,F,C,C,D,D,1368.758238,.5X
+RUTH,Ruths Hospitality Group Inc,A,C,C,C,C,780.837175,.25X
+RXN,Rexnord Corp,B,C,C,C,C,7865.792937,2X
+RYI,Ryerson Holding Corp.,A,D,C,C,C,1384.315892,.5X
+SAP,Sap SE,F,B,B,C,B,141720.2482,4X
+SCHW,Charles Schwab Corp.,A,C,C,B,B,162783.7993,4X
+SCI,Service Corp. International,F,D,C,C,C,10864.11454,2X
+SCVL,"Shoe Carnival, Inc.",F,D,C,B,C,941.469923,.5X
+SF,Stifel Financial Corp.,D,C,C,D,D,7258.652846,2X
+SHAK,Shake Shack Inc,D,D,C,C,C,2680.807506,1X
+SIRI,Sirius XM Holdings Inc,D,C,B,D,C,25639.25877,4X
+SJR,Shaw Communications Inc.,A,,,,,14626.53651,2X
+SPPI,"Spectrum Pharmaceuticals, Inc.",F,D,C,C,C,147.3201976,.25X
+SPWR,Sunpower Corp,D,B,C,B,B,3548.718775,1X
+STC,Stewart Information Services Corp.,F,C,D,B,C,1845.880982,.5X
+STRI,STR Holdings Inc,A,,,,,1.734795,.25X
+SWIR,Sierra Wireless Inc,A,,,,,708.6425083,.25X
+SWX,Southwest Gas Holdings Inc,A,C,C,C,C,4645.33241,1X
+SYNH,Syneos Health Inc,F,D,C,D,D,8275.547346,2X
+TARO,Taro Pharmaceutical Industries,F,D,C,A,B,1717.62814,.5X
+TENB,Tenable Holdings Inc,D,D,C,C,C,5752.054436,1X
+TEX,Terex Corp.,F,C,C,C,C,2746.63,1X
+THG,Hanover Insurance Group Inc,A,C,C,B,C,5185.957196,1X
+TKC,Turkcell Iletisim Hizmetleri A.S.,A,,,,,3300,1X
+TSLA,Tesla Inc,F,C,C,C,C,891508.6498,4X
+TYL,"Tyler Technologies, Inc.",F,C,C,C,C,17807.31745,2X
+TZOO,Travelzoo,F,D,D,C,C,76.869837,.25X
+UTL,Unitil Corp.,A,C,C,C,C,782.2310205,.25X
+VECO,Veeco Instruments Inc,A,C,C,D,C,1463.639732,.5X
+VRTV,Veritiv Corp,A,C,C,C,C,1879.495928,.5X
+WATT,Energous Corp,F,,,,,71.6770725,.25X
+WCC,"Wesco International, Inc.",A,B,C,F,C,6641.346525,2X
+WIT,Wipro Ltd.,F,,,,,44002.09932,4X
+WTS,"Watts Water Technologies, Inc.",F,C,B,B,B,4083.957864,1X
+XRX,Xerox Holdings Corp,F,B,B,D,C,3589.343988,1X
+YNDX,Yandex NV,F,C,C,C,C,6082.650339,2X
+ZEN,Zendesk Inc,A,C,C,C,C,13993.14719,2X
+ZIXI,Zix Corp.,B,C,C,D,D,482.9309873,.25X
+NR,"Newpark Resources, Inc.",A,C,C,B,C,367.3995392,.25X
+NSC,Norfolk Southern Corp.,D,C,C,B,B,67875.3744,4X
+NTGR,Netgear Inc,F,C,C,B,C,754.1212371,.25X
+NVCR,NovoCure Ltd,A,C,C,C,C,8294.939116,2X
+OGI,OrganiGram Holdings Inc.,F,,,,,454.134539,.25X
+ONTF,ON24 Inc,F,D,D,C,D,675.0396806,.25X
+ONTO,Onto Innovation Inc.,F,C,C,B,C,4450.35658,1X
+OSK,Oshkosh Corp,D,C,C,B,C,7512.880469,2X
+PBH,Prestige Consumer Healthcare Inc,F,C,C,D,C,2778.32939,1X
+PFG,Principal Financial Group Inc,D,B,C,C,C,18795.63966,2X
+PG,Procter & Gamble Co.,F,C,C,B,C,364611.5974,4X
+PGEN,Precigen Inc,F,D,D,C,C,454.6155416,.25X
+PLAY,Dave & Buster`s Entertainment Inc,A,D,C,D,C,2067.303105,.5X
+PPD,PPD Inc,B,D,C,D,C,16610.03136,2X
+PRDO,Perdoceo Education Corporation,D,D,C,B,C,796.1327128,.25X
+PSB,"PS Business Parks, Inc.",F,C,C,B,C,4442.339825,1X
+PVH,PVH Corp,F,B,C,C,C,5949.145947,2X
+QGEN,Qiagen NV,F,B,B,F,C,11406.64558,2X
+QLYS,Qualys Inc,D,D,C,B,C,5191.748752,1X
+RBBN,Ribbon Communications Inc,F,C,C,D,C,496.1833606,.25X
+RBLX,Roblox Corporation,F,,,,,26156.38908,4X
+RCM,R1 RCM Inc,B,D,C,D,D,5716.843774,1X
+RNR,RenaissanceRe Holdings Ltd,F,D,C,C,C,7081.353128,2X
+ROST,"Ross Stores, Inc.",F,C,B,B,B,33166.30514,4X
+SABR,Sabre Corp,A,C,B,D,C,3452.433281,1X
+SAFM,"Sanderson Farms, Inc.",D,C,C,B,C,3968.445549,1X
+SAIA,Saia Inc.,F,D,C,B,C,7690.374734,2X
+SATS,EchoStar Corp,D,C,C,F,D,1035.496375,.5X
+SDC,Smiledirectclub Inc,A,,,,,337.589823,.25X
+SLB,Schlumberger Ltd.,A,B,B,B,B,55559.74341,4X
+SLCA,U.S. Silica Holdings Inc,A,B,C,C,C,1228.206873,.5X
+SMP,"Standard Motor Products, Inc.",F,C,C,B,C,1025.037662,.5X
+SNA,"Snap-on, Inc.",D,C,B,B,B,11549.14943,2X
+SNBR,Sleep Number Corp,F,B,C,B,B,1473.18735,.5X
+SSTI,ShotSpotter Inc,D,D,C,C,C,324.6529314,.25X
+STNE,StoneCo Ltd,F,D,C,D,D,3588.378639,1X
+STX,Seagate Technology Holdings Plc,F,B,B,C,C,21313.72196,4X
+SUP,"Superior Industries International, Inc.",A,C,C,C,C,120.6164744,.25X
+SUPN,Supernus Pharmaceuticals Inc,A,C,C,F,D,1660.808875,.5X
+TAST,Carrols Restaurant Group Inc.,F,D,C,D,C,124.5946973,.25X
+TCP,"TC Pipelines, LP",D,C,B,D,C,2154.166223,.5X
+TJX,"TJX Companies, Inc.",F,C,B,B,B,75086.54746,4X
+TLRY,Tilray Brands Inc,F,D,C,C,C,2552.982732,.5X
+TOL,Toll Brothers Inc.,F,C,C,C,C,6502.12214,2X
+TREX,"TREX Co., Inc.",F,B,B,C,C,9270.253941,2X
+TRIP,TripAdvisor Inc.,D,D,C,C,C,3162.50693,1X
+TWNK,Hostess Brands Inc,A,C,D,D,D,2709.837544,1X
+UAL,United Airlines Holdings Inc,D,B,C,D,C,13705.00466,2X
+UCTT,Ultra Clean Hldgs Inc,F,D,C,D,C,2001.219,.5X
+UPWK,Upwork Inc,F,C,C,B,C,2848.40673,1X
+VFC,VF Corp.,F,B,C,C,C,22572.79467,4X
+VLO,Valero Energy Corp.,A,C,C,C,C,36969.90277,4X
+VOYA,Voya Financial Inc,A,C,C,C,C,7549.238007,2X
+VRNT,"Verint Systems, Inc.",D,C,C,D,C,3336.660152,1X
+VRRM,Verra Mobility Corp,A,D,D,C,C,2749.618027,1X
+WAT,Waters Corp.,F,B,C,C,C,20749.41974,4X
+WBT,Welbilt Inc,D,C,C,D,C,3371.485331,1X
+WHR,Whirlpool Corp.,F,B,C,C,B,12209.62455,2X
+WLK,Westlake Corporation,A,B,B,C,C,15881.68118,2X
+WPC,W. P. Carey Inc,D,C,C,C,C,14793.94413,2X
+WRB,W.R. Berkley Corp.,A,C,C,B,C,17042.86934,2X
+WRLD,World Acceptance Corp.,F,D,C,C,C,1274.594733,.5X
+WWD,Woodward Inc,A,B,C,B,B,7780.890727,2X
+MLM,"Martin Marietta Materials, Inc.",F,C,C,C,C,24060.80904,4X
+MMM,3M Co.,F,B,B,C,C,85823.62568,4X
+MMYT,MakeMyTrip Ltd,F,C,D,B,C,1648.749001,.5X
+MOMO,Momo Inc,B,C,C,C,C,2052.20355,.5X
+MSCI,MSCI Inc,F,C,C,C,C,42898.0217,4X
+NAV,Navistar International Corp.,A,B,C,D,C,4437.346692,1X
+NEM,Newmont Corp,A,B,B,B,B,59103.36806,4X
+NEX,NexTier Oilfield Solutions Inc,A,B,B,C,B,1859.769948,.5X
+NTRA,Natera Inc,F,,,,,3716.623302,1X
+NUS,"Nu Skin Enterprises, Inc.",D,C,C,C,C,2382.90424,.5X
+NVDA,NVIDIA Corp,F,B,B,C,C,661325,4X
+NWN,Northwest Natural Holding Co,A,C,C,D,C,1615.838995,.5X
+ODP,ODP Corporation (The),A,C,C,C,C,2505.359682,.5X
+ORA,Ormat Technologies Inc,A,B,B,C,C,4470.832895,1X
+OSIS,"OSI Systems, Inc.",F,D,C,C,C,1525.096606,.5X
+OSPN,OneSpan Inc,F,D,C,B,C,546.4614832,.25X
+OSUR,Orasure Technologies Inc.,F,D,C,D,D,524.2250905,.25X
+OXY,Occidental Petroleum Corp.,A,B,B,C,C,52513.23598,4X
+PBPB,Potbelly Corp,A,C,C,C,C,174.3459985,.25X
+PFGC,Performance Food Group Company,A,C,C,D,C,8185.636946,2X
+PGNY,Progyny Inc,D,D,C,C,C,4371.353299,1X
+PHM,PulteGroup Inc,F,C,C,B,C,12568.76233,2X
+PODD,Insulet Corporation,D,C,B,D,C,17909.27216,2X
+PPG,"PPG Industries, Inc.",F,B,B,C,B,31077.09702,4X
+PRAA,PRA Group Inc,F,C,B,D,C,2080.522003,.5X
+PRO,Pros Holdings Inc,D,D,C,D,D,1470.266464,.5X
+PRPL,Purple Innovation Inc,F,C,C,C,C,526.9890033,.25X
+PXD,Pioneer Natural Resources Co.,A,C,B,C,C,58516.01653,4X
+RCL,Royal Caribbean Group,D,B,C,D,C,19393.19265,2X
+RGR,"Sturm, Ruger & Co., Inc.",A,D,D,B,C,1303.204196,.5X
+RIG,Transocean Ltd,A,D,C,C,C,2773.856166,1X
+RMAX,RE/MAX Holdings Inc,D,D,D,C,C,538.2051313,.25X
+ROK,Rockwell Automation Inc,F,B,B,C,B,32003.3749,4X
+ROKU,Roku Inc,F,D,D,C,C,14533.10632,2X
+ROLL,RBC Bearings Inc.,A,C,C,B,C,5840.553939,1X
+RRR,Red Rock Resorts Inc,F,D,C,C,C,3321.633354,1X
+SANW,S&W Seed Co,F,,,,,73.18641706,.25X
+SCHL,Scholastic Corp.,D,D,C,C,C,1230.424921,.5X
+SEM,Select Medical Holdings Corporation,F,B,B,C,C,3404.776317,1X
+SHLDQ,Sears Holdings Corp,B,C,C,C,C,8.21914,.25X
+SIMO,Silicon Motion Technology Corp,F,C,C,B,B,2473.749295,.5X
+SKLZ,Skillz Inc,F,,,,,1089.2158,.5X
+SRDX,"Surmodics, Inc.",F,D,C,C,C,598.29936,.25X
+SWCH,Switch Inc,A,C,C,F,D,3951.42795,1X
+SWM,"Schweitzer-Mauduit International, Inc.",A,B,C,D,C,959.4542685,.5X
+SYF,Synchrony Financial,F,C,C,C,C,21414.98977,4X
+TEVA,Teva- Pharmaceutical Industries Ltd.,D,C,B,C,C,8697.82285,2X
+THS,Treehouse Foods Inc,F,B,C,D,C,1856.717654,.5X
+TNL,Travel+Leisure Co,A,B,C,C,C,5028.557423,1X
+TPCO,Tribune Publishing Co,A,D,C,C,C,630.5570773,.25X
+TROW,T. Rowe Price Group Inc.,F,C,B,B,B,33302.98802,4X
+TRUE,Truecar Inc,A,B,B,D,C,362.7589518,.25X
+TS,Tenaris S.A.,A,,,,,16698.69349,2X
+TSCO,Tractor Supply Co.,D,B,B,B,B,26701.43417,4X
+TTC,Toro Co.,F,C,C,B,B,9309.651101,2X
+TTI,"Tetra Technologies, Inc.",A,C,C,C,C,422.8603693,.25X
+TVTX,Travere Therapeutics Inc,F,D,C,D,D,1525.822633,.5X
+TWTR,Twitter Inc,F,C,D,D,C,30139.19761,4X
+UAA,Under Armour Inc,F,D,C,C,C,3301.289793,1X
+UEIC,Universal Electronics Inc.,F,C,C,B,C,457.3621517,.25X
+UEPS,Net 1 UEPS Technologies Inc,D,D,C,D,D,279.3959568,.25X
+UFPI,UFP Industries Inc,D,C,C,C,C,5463.893753,1X
+UMC,United Micro Electronics,F,,,,,23554.51896,4X
+UTHR,United Therapeutics Corp,F,C,C,C,C,8134.41826,2X
+VAC,Marriott Vacations Worldwide Corp,D,C,C,C,C,6699.427952,2X
+VGR,Vector Group Ltd,D,D,D,C,D,1719.7268,.5X
+VNET,VNET Group Inc,F,C,C,F,D,893.3731769,.25X
+VPG,Vishay Precision Group Inc,F,,,,,416.0169426,.25X
+VRTU,Virtusa Corp,B,B,B,D,C,1555.635549,.5X
+WETF,Wisdomtree Investments Inc,F,C,C,B,C,800.9816479,.25X
+WK,Workiva Inc,F,D,C,C,C,4635.194136,1X
+WMS,Advanced Drainage Systems Inc,F,C,C,C,C,8646.592486,2X
+WSO,Watsco Inc.,D,D,C,B,C,10181.7952,2X
+ZGNX,Zogenix Inc,A,D,C,D,D,1491.350049,.5X
+ZIOP,Alaunos Therapeutics Inc,F,D,C,C,C,186.5803483,.25X
+ZYNE,Zynerba Pharmaceuticals Inc,F,,,,,83.32810474,.25X
+MCY,Mercury General Corp.,A,B,C,C,C,2961.78345,1X
+MELI,MercadoLibre Inc,F,C,C,C,C,58934.65242,4X
+MEOH,Methanex Corp.,A,,,,,4115.30112,1X
+MMI,Marcus & Millichap Inc,D,D,C,C,C,1936.219503,.5X
+MRC,MRC Global Inc,A,C,B,C,C,936.5994012,.5X
+MTRX,Matrix Service Co.,A,D,C,B,C,231.730203,.25X
+MU,Micron Technology Inc.,F,B,B,C,C,88829.91103,4X
+NIO,NIO Inc,F,C,C,B,C,28405.56633,4X
+NOC,Northrop Grumman Corp.,A,B,C,C,C,68518.69063,4X
+NP,Neenah Inc,F,B,C,C,C,660.5079245,.25X
+NTAP,Netapp Inc,D,B,B,C,C,20057.32304,4X
+NUAN,Nuance Communications Inc,A,C,B,C,C,17610.07373,2X
+NXST,Nexstar Media Group Inc,A,D,D,D,D,7893.798229,2X
+OCN,Ocwen Financial Corp.,F,C,C,C,C,233.3094717,.25X
+OMCL,"Omnicell, Inc.",F,C,C,D,C,5963.808178,2X
+OMI,"Owens & Minor, Inc.",A,C,C,C,C,3533.908219,1X
+OPRA,Opera Ltd,F,,,,,647.1197669,.25X
+OTIS,Otis Worldwide Corp,F,B,B,B,B,33280.20037,4X
+PAGP,Plains GP Holdings LP,A,C,C,D,C,2160.598662,.5X
+PAYX,Paychex Inc.,D,C,C,B,C,46202.49113,4X
+PDCE,PDC Energy Inc,A,C,C,C,C,6755.22199,2X
+PETS,"Petmed Express, Inc.",A,C,B,B,B,559.1926909,.25X
+PKG,Packaging Corp Of America,A,B,B,B,B,14863.42797,2X
+PLAB,"Photronics, Inc.",D,C,C,C,C,1073.814967,.5X
+PLAN,Anaplan Inc,A,D,C,C,C,7395.379758,2X
+PLCE,Childrens Place Inc,F,D,C,C,C,789.351173,.25X
+PNR,Pentair plc,F,B,C,B,B,9490.686639,2X
+PPC,Pilgrim`s Pride Corp.,F,B,C,D,C,5736.121788,1X
+PRI,Primerica Inc,F,C,C,C,C,5264.491127,1X
+PRTY,Party City Holdco Inc,F,C,C,C,C,412.9598482,.25X
+PSIX,Power Solutions International Inc,F,D,C,D,D,60.51800304,.25X
+PSTG,Pure Storage Inc,A,D,C,D,C,9786.457002,2X
+PTCT,PTC Therapeutics Inc,D,D,D,D,D,2668.866165,1X
+RACE,Ferrari N.V.,F,B,B,C,B,40648.30463,4X
+RDFN,Redfin Corp,F,D,D,C,C,2149.655568,.5X
+RDWR,Radware,F,,,,,1474.356085,.5X
+REGI,Renewable Energy Group Inc,A,C,C,C,C,3047.259225,1X
+RHNO,Rhino Resource Partners LP,C,,,,,0.116154,.25X
+RLI,RLI Corp.,D,D,C,B,C,4918.321301,1X
+RPRX,Royalty Pharma plc,D,D,C,F,D,16789.87152,2X
+RRGB,Red Robin Gourmet Burgers Inc,A,C,C,C,C,282.4727403,.25X
+RYN,Rayonier Inc.,A,B,C,C,C,5805.631082,1X
+SANM,Sanmina Corp,A,B,B,C,C,2697.03558,1X
+SASR,Sandy Spring Bancorp,D,D,C,C,C,2132.310428,.5X
+SDGR,Schrodinger Inc,D,D,C,B,C,2129.847704,.5X
+SE,Sea Ltd,F,D,C,C,C,49013.43364,4X
+SEIC,SEI Investments Co.,D,C,C,B,C,8477.294577,2X
+SFM,Sprouts Farmers Market Inc,A,C,B,C,C,3646.124888,1X
+SGEN,Seagen Inc,D,C,C,B,C,25982.06595,4X
+SHEN,Shenandoah Telecommunications Co.,F,D,C,C,C,1098.73367,.5X
+SINA,Sina Corp.,B,D,C,D,D,2584.959078,1X
+SLRX,Salarius Pharmaceuticals Inc,F,,,,,17.37417207,.25X
+SQBG,Sequential Brands Group Inc.,A,D,C,F,D,10.30526016,.25X
+SRGA,Surgalign Holdings Inc,F,D,C,B,C,48.68224298,.25X
+SSNC,SS&C Technologies Holdings Inc,D,C,B,D,C,20142.32624,4X
+SSYS,Stratasys Ltd,A,C,C,B,C,1663.02028,.5X
+STN,Stantec Inc,F,B,B,B,B,5670.359134,1X
+SVMK,SVMK Inc,A,D,C,D,D,3178.906034,1X
+SXT,Sensient Technologies Corp.,F,B,C,B,B,3428.89178,1X
+TCS,Container Store Group Inc,F,C,B,B,B,1712.034176,.5X
+TDC,Teradata Corp,A,B,B,C,C,5274.985,1X
+THC,Tenet Healthcare Corp.,A,C,C,D,C,9386.480165,2X
+TKR,Timken Co.,F,C,C,C,C,4763.872181,1X
+TLGT,Teligent Inc,A,D,C,C,C,16.10383504,.25X
+TNK,Teekay Tankers Ltd,A,B,B,C,B,386.489878,.25X
+TPX,Tempur Sealy International Inc,F,B,B,C,B,6702.506633,2X
+TSQ,Townsquare Media Inc,D,,,,,158.9016155,.25X
+TXRH,Texas Roadhouse Inc,D,C,C,C,C,5841.31204,1X
+URBN,"Urban Outfitters, Inc.",F,C,C,C,C,2639.102417,1X
+UTI,Universal Technical Institute Inc,A,D,C,F,D,284.9184568,.25X
+VG,Vonage Holdings Corp,D,D,C,C,C,5082.425445,1X
+WD,Walker & Dunlop Inc,F,C,C,D,C,4295.630317,1X
+WGO,"Winnebago Industries, Inc.",F,C,C,C,C,2036.715374,.5X
+WH,Wyndham Hotels & Resorts Inc,B,C,C,C,C,5937.782889,1X
+WIX,Wix.com Ltd,F,D,C,C,C,5053.582279,1X
+WRK,WestRock Co,A,B,B,C,C,12704.15038,2X
+WWE,"World Wrestling Entertainment, Inc.",A,D,C,B,C,2697.387878,1X
+YELP,Yelp Inc,D,D,C,C,C,2535.048659,.5X
+ZBRA,Zebra Technologies Corp.,F,D,C,C,C,23346.70911,4X

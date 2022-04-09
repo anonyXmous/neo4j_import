@@ -1,0 +1,123 @@
+sectorID,sector,industryID,industry,subindustryID,subindustry
+2007,Finance ,2,Banking ,23,Big-Cap Banks 
+2007,Finance ,2,Banking ,25,Mid-Cap Banks 
+2007,Finance ,2,Banking ,22,Banks - Non U.S. 
+2007,Finance ,2,Banking ,24,Regional Banks 
+2007,Finance ,2,Banking ,26,S&L's 
+2007,Finance ,257,Real Estate ,201,Real Estate 
+2007,Finance ,257,Real Estate ,202,REIT's 
+2007,Finance ,13,Insurance ,13,Insurance 
+2007,Finance ,3,Financial,253,Investments 
+2007,Finance ,3,Financial,29,Brokerage
+2007,Finance ,3,Financial,27,Financial Services 
+2006,Technology ,17,Technology,72,Software & Services 
+2006,Technology ,17,Technology,73,Computers 
+2006,Technology ,17,Technology,150,Internet Products & Services 
+2006,Technology ,17,Technology,976,Networking 
+2006,Technology ,17,Technology,74,Computer Peripherals 
+2006,Technology ,17,Technology,43,Semiconductors 
+2006,Technology ,17,Technology,40,Solar + Green Energy 
+2006,Technology ,100,Aerospace & Defense ,225,Aerospace 
+2006,Technology ,100,Aerospace & Defense ,226,Defense 
+2006,Technology ,18,Telecom ,77,Telephone 
+2006,Technology ,18,Telecom ,76,Cellular & Telephone Services 
+2006,Technology ,18,Telecom ,75,Communications Equipment 
+2006,Technology ,18,Telecom ,251,Internet Access Providers 
+2002,Energy ,7,Energy ,9,Major Oils 
+2002,Energy ,7,Energy ,8,Independent Oils 
+2002,Energy ,7,Energy ,11,Pipelines
+2002,Energy ,7,Energy ,10,Oilfield Equipment 
+2002,Energy ,7,Energy ,113,Drilling & Marine Supply 
+2002,Energy ,7,Energy ,222,Refiners 
+2003,Industrial ,975,Manufacturing ,91,Machinery & Industrial Equipment
+2003,Industrial ,975,Manufacturing ,216,Diversified Technology 
+2003,Industrial ,6,Electronics ,42,Diversified Electronics
+2003,Industrial ,6,Electronics ,41,Electronic Components & Parts 
+2001,Basic Materials ,4,Chemicals ,30,Chemicals
+2001,Basic Materials ,4,Chemicals ,116,Specialty Chemicals 
+2001,Basic Materials ,104,Materials & Construction ,700,Building Materials 
+2001,Basic Materials ,104,Materials & Construction ,207,Waste Management 
+2001,Basic Materials ,104,Materials & Construction ,240,Engineering & Construction 
+2001,Basic Materials ,104,Materials & Construction ,105,Paper & Lumber 
+2001,Basic Materials ,104,Materials & Construction ,106,Packaging 
+2001,Basic Materials ,104,Materials & Construction ,200,Home Builders 
+2001,Basic Materials ,104,Materials & Construction ,255,Security 
+2001,Basic Materials ,104,Materials & Construction ,500,Cement 
+2001,Basic Materials ,104,Materials & Construction ,600,Commercial Construction 
+2001,Basic Materials ,256,Mining & Metals,206,Mining
+2001,Basic Materials ,256,Mining & Metals,234,Gold & Precious Metals 
+2001,Basic Materials ,256,Mining & Metals,102,Steel 
+2001,Basic Materials ,256,Mining & Metals,235,Coal 
+2001,Basic Materials ,256,Mining & Metals,103,Nonferrous Metals 
+2001,Basic Materials ,256,Mining & Metals,236,Diamonds 
+2008,Utilities ,119,Utilities ,81,Big-Cap U.S. Utilities 
+2008,Utilities ,119,Utilities ,85,Non US Utilities 
+2008,Utilities ,119,Utilities ,83,Small-Cap U.S. Utilities 
+2008,Utilities ,119,Utilities ,260,Water 
+2005,Consumer Non Cyclical ,12,Food & Beverage ,48,Agriculture & Commodity Foods 
+2005,Consumer Non Cyclical ,12,Food & Beverage ,44,Beverages 
+2005,Consumer Non Cyclical ,12,Food & Beverage ,47,Food 
+2005,Consumer Non Cyclical ,12,Food & Beverage ,52,Grocery 
+2005,Consumer Non Cyclical ,12,Food & Beverage ,53,Restaurants 
+2005,Consumer Non Cyclical ,258,Services ,221,Business Services 
+2005,Consumer Non Cyclical ,258,Services ,805,"Catering, Cleaning & Repair "
+2005,Consumer Non Cyclical ,258,Services ,825,Childcare
+2005,Consumer Non Cyclical ,258,Services ,215,Consumer Services 
+2005,Consumer Non Cyclical ,258,Services ,223,Data Processing 
+2005,Consumer Non Cyclical ,258,Services ,855,Education & Training 
+2005,Consumer Non Cyclical ,258,Services ,242,Funeral Services 
+2005,Consumer Non Cyclical ,258,Services ,850,Staffing
+2005,Consumer Non Cyclical ,258,Services ,800,Uniforms 
+2005,Consumer Non Cyclical ,203,Tobacco ,203,Tobacco 
+2005,Consumer Non Cyclical ,94,Consumer Products & Services ,96,Consumer Electronics 
+2005,Consumer Non Cyclical ,94,Consumer Products & Services ,95,Personal Products 
+2005,Consumer Non Cyclical ,94,Consumer Products & Services ,98,Photography 
+2005,Consumer Non Cyclical ,94,Consumer Products & Services ,252,Sports 
+2005,Consumer Non Cyclical ,94,Consumer Products & Services ,97,Textiles 
+2005,Consumer Non Cyclical ,94,Consumer Products & Services ,99,Toys 
+2005,Consumer Non Cyclical ,94,Consumer Products & Services ,155,Vitamins & Holisitic Health 
+2005,Consumer Non Cyclical ,5,Health,36,Biomedics 
+2005,Consumer Non Cyclical ,5,Health,35,Drugs 
+2005,Consumer Non Cyclical ,5,Health,241,Medical Equipment 
+2005,Consumer Non Cyclical ,5,Health,38,Medical Products 
+2005,Consumer Non Cyclical ,5,Health,37,Medical Services 
+2004,Consumer Cyclical ,1,Auto ,20,Auto Manufacturers 
+2004,Consumer Cyclical ,1,Auto ,21,Auto Parts 
+2004,Consumer Cyclical ,14,Media ,59,Advertising & Marketing 
+2004,Consumer Cyclical ,14,Media ,60,Broadcasting - TV & Radio 
+2004,Consumer Cyclical ,14,Media ,61,Diversified Media 
+2004,Consumer Cyclical ,14,Media ,209,Entertainment 
+2004,Consumer Cyclical ,14,Media ,62,Movies 
+2004,Consumer Cyclical ,14,Media ,231,Music 
+2004,Consumer Cyclical ,14,Media ,63,Publishing 
+2004,Consumer Cyclical ,212,Gambling ,212,Gambling 
+2004,Consumer Cyclical ,86,Durables ,87,Appliances 
+2004,Consumer Cyclical ,86,Durables ,245,Furniture 
+2004,Consumer Cyclical ,86,Durables ,88,Household Products 
+2004,Consumer Cyclical ,86,Durables ,210,Office Equipment 
+2004,Consumer Cyclical ,86,Durables ,89,Recreation Equipment 
+2004,Consumer Cyclical ,107,Travel & Transportation ,109,Air Freight 
+2004,Consumer Cyclical ,107,Travel & Transportation ,108,Airlines 
+2004,Consumer Cyclical ,107,Travel & Transportation ,254,Car Rental & Sales 
+2004,Consumer Cyclical ,107,Travel & Transportation ,230,Cruise Lines 
+2004,Consumer Cyclical ,107,Travel & Transportation ,110,Hotels & Resorts 
+2004,Consumer Cyclical ,107,Travel & Transportation ,111,Railroads 
+2004,Consumer Cyclical ,107,Travel & Transportation ,213,Shipping 
+2004,Consumer Cyclical ,107,Travel & Transportation ,114,Travel Services 
+2004,Consumer Cyclical ,107,Travel & Transportation ,112,Trucking 
+2004,Consumer Cyclical ,16,Retailers,65,Apparel 
+2004,Consumer Cyclical ,16,Retailers,71,Bookstores 
+2004,Consumer Cyclical ,16,Retailers,259,C-Stores & Auto-Related Retailers 
+2004,Consumer Cyclical ,16,Retailers,64,Department Stores
+2004,Consumer Cyclical ,16,Retailers,70,Discount & Variety Stores 
+2004,Consumer Cyclical ,16,Retailers,68,Footwear 
+2004,Consumer Cyclical ,16,Retailers,350,Home Improvement & Hardware 
+2004,Consumer Cyclical ,16,Retailers,310,Jewelry & Watches 
+2004,Consumer Cyclical ,16,Retailers,67,Luxury Goods 
+2004,Consumer Cyclical ,16,Retailers,312,Office Products 
+2004,Consumer Cyclical ,16,Retailers,300,Optical 
+2004,Consumer Cyclical ,16,Retailers,313,Pets 
+2004,Consumer Cyclical ,16,Retailers,66,Retailers of Electronics & Computers 
+2004,Consumer Cyclical ,16,Retailers,69,Specialty Retailers 
+2009,Conglomerates,211,Conglomerates,211,Conglomerates
+2009,Conglomerates,211,Conglomerates,9000,Miscellaneous
